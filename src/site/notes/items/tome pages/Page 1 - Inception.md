@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/tome-pages/page-1-inception/"}
 ---
 
-Revealed by [[DM ONLY/The Tome of Origin\|The Tome of Origin]]
+Revealed by [[DM ONLY/The Tome of Origin\|1]]
 #tome_pages
 
 ![Pasted image 20250913181345.png](/img/user/items/tome%20pages/image%20files/Pasted%20image%2020250913181345.png)
