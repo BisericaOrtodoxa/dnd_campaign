@@ -8,7 +8,7 @@ After finding their base of operations, they realize that [[The Frozen Cult\|the
 
 They killed most of the cultists except [[npcs/Cultist escapee\|one who swam down the river and escaped]].
 A magical book was found at the campsite. [[DM ONLY/The Tome of Origin\|¹]]
-Imp also briefly became aware of his [[concepts/meta-existance\|meta-existance]] with that perception roll.
+Imp also briefly became aware of his [[concepts/meta-existance\|¹]] with that perception roll.
 
 
 
