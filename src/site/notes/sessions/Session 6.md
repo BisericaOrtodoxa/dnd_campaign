@@ -10,7 +10,7 @@ Strangely, they keep meeting the bard and they didn't question it. They don't kn
 
 Dreamt about some sort of entity rowing a boat with them
 
-"Nothing is set is stone. Things are set in a dirt road. If you roll your wagon in the same path too much it'll soon be the only path you can take without struggling" - man in the dream[[Forgotten God|`¹`]]
+"Nothing is set is stone. Things are set in a dirt road. If you roll your wagon in the same path too much it'll soon be the only path you can take without struggling" - being in the dream[[Forgotten God|`¹`]]
 
 Met [[npcs/Carl\|Carl]] and managed to cross the rocky bridge.
 
@@ -25,7 +25,7 @@ Met [[The Smartest Elk in Existence\|The Smartest Elk in Existence]] and didn't 
 Bnn be like :
 ![Pasted image 20250913192649.png](/img/user/sessions/image%20files/Pasted%20image%2020250913192649.png)
 
-[[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]] pointed to someone in the distance staring down the party[[Rainy Devil Victim|`¹`]]
+[[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]] pointed to someone in the distance staring down the party[[npcs/Rainy Devil Victim\|¹]]
 
 The only time the players heard the jester([[npcs/Seiro\|Seiro]]) speak was when roasting a pirate. And it did damage.
 
