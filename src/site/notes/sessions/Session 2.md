@@ -7,7 +7,7 @@ After fighting 2 hawks, [[factions/The party\|The party]] camps in the wildernes
 After finding their base of operations, they realize that [[The Crystal Frost Cult\|the cult]]) has been poisoning the water supply of a nearby settlement.
 
 They killed most of the cultists except [[npcs/Cultist escapee\|one who swam down the river and escaped]].
-A magical book was found at the campsite. [[items/items/The Tome of Origin\|1]]
+A magical book was found at the campsite. 
 Imp also briefly became aware of his [[concepts/meta-existance\|meta-existance]] with that perception roll.
 
 
