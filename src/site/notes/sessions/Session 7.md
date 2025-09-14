@@ -6,7 +6,7 @@
 The party arrived in the village([[locations/villages/Sutton\|Sutton]]) and they immediately headed to the church and on the way they scared a child
 In the church they converted imp to the religion of the goddess of the sea [[npcs/Divinity/Umberlee\|Umberlee]].
 They double blessed [[npcs/Druid The Squirrel\|Druid The Squirrel]] which might have made him strong and then gave a mana crystal to [[npcs/Carl\|Carl]]
-Then suddenly everything went black for [[players/Imp\|Imp]] and he saw a person in a yellow cloak([[npcs/Rainy Devil Victim\|Rainy Devil Victim]]`¹`) as well as almost suffocated cause he could see the air. 
+Then suddenly everything went black for [[players/Imp\|Imp]] and he saw a person in a yellow cloak([[npcs/Rainy Devil Victim\|¹]]) as well as almost suffocated cause he could see the air. 
 
 They then went to the scholar of the town(later revealed to be [[npcs/Dwayne the Monk Johnson\|Dwayne the Monk Johnson]]) and he recognized them even though they haven't seen him before
 Dwayne the Monk Johnson revealed himself to be the guy who was in the tundra[[locations/regions/World's End Tundra\|²]].
