@@ -7,7 +7,7 @@
 They went to [[npcs/The Witch\|The Witch]] and got send to [[The Capital of Seamersia\|The Capital of Seamersia]].
 They bought 2 sheep(sold to them by a [[npcs/Giant Shepherd\|Giant Shepherd]]) and skinned and butchered them they went on a carriage and cooked 3 thieves (literally).
 
-Then they arrived in the port town([[locations/cities and towns/Shiford\|Shiford]]) and got send to the crypt by the captain where they found a cultist([[The Frozen Cult|`¹`]]) with his _beautiful_ wife and [[Imp \|Imp ]]managed to deal a total of like 5 points of emotional dmg by talking to [[The Widower Cultist\|The Widower Cultist]] and after the cultist's wife got insulted a fight broke out and they barely managed to survive. 
+Then they arrived in the port town([[locations/cities and towns/Shiford\|Shiford]]) and got send to the crypt by the captain where they found a cultist([[The Crystal Frost Cult|`¹`]]) with his _beautiful_ wife and [[Imp \|Imp ]]managed to deal a total of like 5 points of emotional dmg by talking to [[The Widower Cultist\|The Widower Cultist]] and after the cultist's wife got insulted a fight broke out and they barely managed to survive. 
 Imp then proceeded to eat [[npcs/Undead Orc Wife\|Undead Orc Wife]] and there seems to be something wrong with him.
 
 Along the way, they meet [[npcs/Druid The Squirrel\|Druid The Squirrel]]. A smart squirrel.

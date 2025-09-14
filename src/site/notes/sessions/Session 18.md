@@ -8,7 +8,7 @@
 The party hurries to rescue [[players/Emery\|Emery]]. Which vanished due to drawing a cards from [[items/items/The Deck of Many Things\|The Deck of Many Things]].
 They also drew many many cards 
 <u>Skull. </u>
-An Avatar of Death appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another [[creatures/Avatar of Death\|Avatar of Death]]. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks.(neutralized temporarily) Fool. You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn’t count as one of your declared draws.(active)
+An Avatar of Death appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another [[DM ONLY/Avatar of Death\|Avatar of Death]]. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks.(neutralized temporarily) Fool. You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn’t count as one of your declared draws.(active)
 
 <u>Flames.</u>
 A powerful [[creatures/Devil\|devil]] becomes your enemy. The [[creatures/Devil\|devil]] seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.(twice) Star. Increase one of your ability scores by 2, to a maximum of 24.(effect applied) Gem.fifty gems worth 1,000 GP each appear at your feet. 
@@ -25,9 +25,9 @@ so far bnn/[[players/Emery\|Emery]] passed the 33% 2 times in a row!(but i rolle
 ![Pasted image 20250914123713.png](/img/user/sessions/image%20files/Pasted%20image%2020250914123713.png)
 ![Pasted image 20250914123736.png](/img/user/sessions/image%20files/Pasted%20image%2020250914123736.png)
 
-Also, shoutouts to Rene Descartes for helping [[players/Imp\|Imp]] realize that he himself exists, _no matter what_.(Somewhat related to [[concepts/meta-existance\|¹]])
+Also, shoutouts to Rene Descartes for helping [[players/Imp\|Imp]] realize that he himself exists, _no matter what_.(Somewhat related to [[DM ONLY/meta-existance\|¹]])
 If he rolled he didn't exist, he would've been able to debate the idea.
-[[npcs/Man carry box\|Man carry box]] was also able to beat _an_ [[creatures/Avatar of Death\|avatar of death]] in a fiddle duel.
+[[npcs/Man carry box\|Man carry box]] was also able to beat _an_ [[DM ONLY/Avatar of Death\|Avatar of Death]] in a fiddle duel.
 You also came to know he's from "[[locations/regions/Georgia\|Georgia]]". Whatever that is
 
 Notably, a huge flame dragon was guarding the entrance to the Warden Dungeon. Upon attacking it directly via melee, it turns out it was just [[npcs/Rat Brothers/Ratthew\|Ratthew]], an incredibly durable rat.
