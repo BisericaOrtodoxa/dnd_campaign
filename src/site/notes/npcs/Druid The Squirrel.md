@@ -3,3 +3,4 @@
 ---
 
 #NPCS
+Smart and dependable animal. Luck is on her side.

@@ -6,7 +6,7 @@
 After boarding a ship to cross from the peninsula (that once belonged to [[locations/countries/Hartombia\|Hartombia]]) to [[locations/cities and towns/Shiford\|Shiford]] (both located in the country of [[locations/countries/Seamersia\|Seamersia]]), the party got attacked by pirates, which were defeated quick.
 They debarked at port, exchanged items with an elf merchant.
 
-Strangely, they keep meeting the bard and they didn't question it. They don't know much about them at this point.([[npcs/Seiro\|Seiro]])
+Strangely, they keep meeting the bard and they didn't question it. They don't know much about them at this point.([[DM ONLY/Seiro\|Seiro]])
 
 Dreamt about some sort of entity rowing a boat with them
 
@@ -25,8 +25,8 @@ Met [[The Smartest Elk in Existence\|The Smartest Elk in Existence]] and didn't 
 Bnn be like :
 ![Pasted image 20250913192649.png](/img/user/sessions/image%20files/Pasted%20image%2020250913192649.png)
 
-[[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]] pointed to someone in the distance staring down the party[[npcs/Rainy Devil Victim\|¹]]
+[[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]] pointed to someone in the distance staring down the party[[DM ONLY/Rainy Devil Victim\|¹]]
 
-The only time the players heard the jester([[npcs/Seiro\|Seiro]]) speak was when roasting a pirate. And it did damage.
+The only time the players heard the jester([[DM ONLY/Seiro\|Seiro]]) speak was when roasting a pirate. And it did damage.
 
 The adventure continues in [[sessions/Session 7\|Session 7]].

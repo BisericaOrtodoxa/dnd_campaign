@@ -7,7 +7,7 @@ Written by BNN with DM changes by Araki
 
 [[factions/The party\|The party]] went to [[npcs/The Witch\|The Witch]]'s house to complete the ritual to free [[npcs/Carl\|Carl]] from being a familiar, but she was not there so they proceeded to jump through some hoops(beans means [[locations/buildings/The Path of The Sage\|The Path of The Sage]]) and reach the designated ritual point™.
 
-After Carl botched the ritual, the bard ([[npcs/Seiro\|Seiro]]) appeared and stole the magical crack[[DM ONLY/Reality Fracture\|¹]] in the space-time and and then left.
+After Carl botched the ritual, the bard ([[DM ONLY/Seiro\|Seiro]]) appeared and stole the magical crack[[DM ONLY/Reality Fracture\|¹]] in the space-time and and then left.
 [[npcs/Carl\|Carl]] is no longer a familiar, but he was left in a bad state so [[players/Remy\|Remy]] put him in a medically induced coma to recover, very gently.
 
 On the way back [[players/Imp\|Imp]], after beating himself up, managed to seduce a chest into opening and giving him a true resurrection. He proceeded to revive his old friend [[players/Emery\|Emery]], then almost killed him, then he got saved by [[players/Gorich\|Gorich]] and [[players/Imp\|Imp]] tried to kill him again but got put to sleep by [[npcs/Druid The Squirrel\|Druid The Squirrel]]. After which Emery proceeded to leave with Druid(who the party presumes to be a traitor due to a past book note).

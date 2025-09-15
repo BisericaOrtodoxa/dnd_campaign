@@ -19,7 +19,7 @@ Items gained this session: [[items/items/Mouse Statue\|Mouse Statue]], [[items/i
 [[magic circles/Healing\|Healing]] circle shows up here too. The players still cant read it due to lack of knowledge.
 Handouts gained this session: [[items/handouts/Journal-Day 1\|Journal-Day 1]],  [[items/handouts/Journal-Day 241\|Journal-Day 241]],  [[items/handouts/Journal-Day 30\|Journal-Day 30]]
 
-Notable NPCS:[[npcs/Seiro\|Seiro]],[[npcs/Druid The Squirrel\|Druid The Squirrel]]
+Notable NPCS:[[DM ONLY/Seiro\|Seiro]],[[npcs/Druid The Squirrel\|Druid The Squirrel]]
 
 
 The adventure continues in [[sessions/Session 4\|Session 4]].
