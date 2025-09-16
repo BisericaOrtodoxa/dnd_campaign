@@ -17,7 +17,7 @@ NPCS:
 - [[npcs/Flying bastion residents/Slime Woman\|Slime Woman]]
 
 { .block-language-dataview}
-[[Greyhawk\|Greyhawk]] related:
+[[locations/cities and towns/The Free City of Greyhawk(tuah)\|Greyhawk]] related:
 - [[npcs/Greyhawk related/2 greyhawk alleyway guards\|2 greyhawk alleyway guards]]
 - [[npcs/Greyhawk related/2 Greyhawk Guards(spared)\|2 Greyhawk Guards(spared)]]
 - [[npcs/Greyhawk related/Forgive Forget Pacient\|Forgive Forget Pacient]]
