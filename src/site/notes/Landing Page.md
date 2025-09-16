@@ -12,9 +12,9 @@ This is the living record of our adventures. Use the links below to explore the 
 
 Quick access to the story as it unfolded:
 
-[[sessions/Session 1\|Session 1]] · [[sessions/Session 2\|Session 2]] · [[sessions/Session 3\|Session 3]] · [[sessions/Session 4\|Session 4]] · [[sessions/Session 5\|Session 5]]
+[[Session 1\|Session 1]] · [[Session 2\|Session 2]] · [[Session 3\|Session 3]] · [[Session 4\|Session 4]] · [[Session 5\|Session 5]]
 
-[[sessions/Session 6\|Session 6]] · [[sessions/Session 7\|Session 7]] · [[sessions/Session 8\|Session 8]] · [[sessions/Session 9\|Session 9]] · [[sessions/Session 10\|Session 10]]
+[[Session 6\|Session 6]] · [[Session 7\|Session 7]] · [[Session 8\|Session 8]] · [[Session 9\|Session 9]] · [[sessions/Session 10\|Session 10]]
 
 [[sessions/Session 11\|Session 11]] · [[sessions/Session 12\|Session 12]] · [[sessions/Session 13\|Session 13]] · [[sessions/Session 14\|Session 14]] · [[sessions/Session 15\|Session 15]]
 
@@ -31,6 +31,7 @@ Meet the people who shape the tale:
 [[factions/The party\|The party]]
 
 🗺️ Locations
+
 
 [[locations/Known Countries\|Countries]]
 
