@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-1/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sessions/session-1/"}
 ---
 
 #sessions
