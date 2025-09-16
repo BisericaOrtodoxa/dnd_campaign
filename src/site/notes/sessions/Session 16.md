@@ -9,7 +9,7 @@ imp prayed tuah and got bard
 bard put them to puzzle
 (meaning the light beam mirror puzzle in [[locations/regions/The Market of Silent Bargains\|The Market of Silent Bargains]] )
 After that they went to water temple beneath it.
-imp tanked 2 water wierds then they went right drugged mermaids([[npcs/singing mermaids/Judy\|Judy]] and [[npcs/singing mermaids/Ash\|Ash]], talented singers) went to the fish ppl
+imp tanked 2 water wierds then they went right drugged mermaids([[npcs/Singing Mermaids/Judy\|Judy]] and [[npcs/Singing Mermaids/Ash\|Ash]], talented singers) went to the fish ppl
 went to the kraken
 something something [[DM ONLY/Shattering\|Shattering]](fuck you melon -Araki, while making the wiki)
 he lowkey chill

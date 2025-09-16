@@ -27,12 +27,12 @@ so far bnn/[[players/Emery\|Emery]] passed the 33% 2 times in a row!(but i rolle
 
 Also, shoutouts to Rene Descartes for helping [[players/Imp\|Imp]] realize that he himself exists, _no matter what_.(Somewhat related to [[DM ONLY/meta-existance\|¹]])
 If he rolled he didn't exist, he would've been able to debate the idea.
-[[npcs/Man carry box\|Man carry box]] was also able to beat _an_ [[DM ONLY/Avatar of Death\|Avatar of Death]] in a fiddle duel.
+[[npcs/Flying bastion residents/Man carry box\|Man carry box]] was also able to beat _an_ [[DM ONLY/Avatar of Death\|Avatar of Death]] in a fiddle duel.
 You also came to know he's from "[[locations/regions/Georgia\|Georgia]]". Whatever that is
 
 Notably, a huge flame dragon was guarding the entrance to the Warden Dungeon. Upon attacking it directly via melee, it turns out it was just [[npcs/Rat Brothers/Ratthew\|Ratthew]], an incredibly durable rat.
 
-The [[npcs/Slime Woman\|Slime Woman]] was also first encountered in this session.
+The [[npcs/Flying bastion residents/Slime Woman\|Slime Woman]] was also first encountered in this session.
 
 New Glyphs: [[items/tome pages/glyph related/Sense Glyph\|Sense Glyph]], [[items/tome pages/glyph related/Delay Glyph\|Delay Glyph]](tho initially the function of it was unknown)
 Book pages(in-between sessions): [[items/tome pages/pages/Page 10 - We are born into the hum\|Page 10 - We are born into the hum]]
