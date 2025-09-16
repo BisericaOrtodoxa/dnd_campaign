@@ -11,12 +11,14 @@ NPCS:
 - [[npcs/Alterham Related/Undead Orc Wife\|Undead Orc Wife]]
 
 { .block-language-dataview}
+
 [[locations/buildings/The Flying Bastion\|The Flying Bastion]] residents:
 - [[npcs/Flying bastion residents/Carl\|Carl]]
 - [[npcs/Flying bastion residents/Man carry box\|Man carry box]]
 - [[npcs/Flying bastion residents/Slime Woman\|Slime Woman]]
 
 { .block-language-dataview}
+
 [[locations/cities and towns/The Free City of Greyhawk(tuah)\|Greyhawk]] related:
 - [[npcs/Greyhawk related/2 greyhawk alleyway guards\|2 greyhawk alleyway guards]]
 - [[npcs/Greyhawk related/2 Greyhawk Guards(spared)\|2 Greyhawk Guards(spared)]]
@@ -25,6 +27,7 @@ NPCS:
 - [[npcs/Greyhawk related/The Greyhawk blacksmith - maker of DOGSHIT SWORD 1\|The Greyhawk blacksmith - maker of DOGSHIT SWORD 1]]
 
 { .block-language-dataview}
+
 [[locations/cities and towns/Westford\|Westford]] related:
 - [[npcs/Wesford related/Professor Archibald\|Professor Archibald]]
 - [[npcs/Wesford related/Seamersia's King\|Seamersia's King]]
@@ -32,6 +35,7 @@ NPCS:
 - [[npcs/Wesford related/Semearsia's Court Wizard\|Semearsia's Court Wizard]]
 
 { .block-language-dataview}
+
 Major NPCS:
 - [[npcs/Major NPCS/Druid The Squirrel\|Druid The Squirrel]]
 - [[npcs/Major NPCS/Dwayne the Monk Johnson\|Dwayne the Monk Johnson]]
@@ -40,16 +44,19 @@ Major NPCS:
 - [[npcs/Major NPCS/The Witch\|The Witch]]
 
 { .block-language-dataview}
+
 Rat Brothers:
 - [[npcs/Rat Brothers/Rathony\|Rathony]]
 - [[npcs/Rat Brothers/Ratthew\|Ratthew]]
 
 { .block-language-dataview}
+
 Singing Mermaids:
 - [[npcs/Singing Mermaids/Ash\|Ash]]
 - [[npcs/Singing Mermaids/Judy\|Judy]]
 
 { .block-language-dataview}
+
 Misc:
 - [[npcs/Misc/apple saleswoman\|apple saleswoman]]
 - [[npcs/Misc/band of bandits\|band of bandits]]
