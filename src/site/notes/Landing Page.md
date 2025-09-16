@@ -32,15 +32,13 @@ Meet the people who shape the tale:
 
 🗺️ Locations
 
-Wander the world:
+[[locations/Known Countries\|Countries]]
 
-[[locations/countries/Known Countries\|Countries]]
+[[locations/Known Regions\|Regions]]
 
-[[locations/regions/Known Regions\|Regions]]
+[[locations/Known Cities and Towns\|Cities and Towns]]
 
-[[locations/cities and towns/Known Cities and Towns\|Cities and Towns]]
-
-[[locations/villages/Known Villages\|Villages]]
+[[locations/Known Villages\|Villages]]
 
 🪙 Items & Relics
 [[items/tome pages/Book Pages\|Book Pages]]

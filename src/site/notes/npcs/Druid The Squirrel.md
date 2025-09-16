@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/npcs/druid-the-squirrel/"}
 ---
 
-#NPCS
+#NPCS #friendly
 Smart and dependable animal. Luck is on her side.

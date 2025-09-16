@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/npcs/bastion-of-the-frost-lord/aramila-farlight/"}
 ---
 
-#NPCS
+#NPCS #neutral
 Younger Daughter of [[DM ONLY/Orin Farlight\|Orin Farlight]]

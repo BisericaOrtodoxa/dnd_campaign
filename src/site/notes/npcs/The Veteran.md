@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/npcs/the-veteran/"}
 ---
 
-#NPCS
+#NPCS #neutral
 Retired war veteran. Strong despite his age.
