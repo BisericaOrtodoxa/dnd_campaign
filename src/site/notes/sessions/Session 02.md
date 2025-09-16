@@ -10,7 +10,7 @@ They killed most of the cultists[[DM ONLY/The Crystal Frost Cult\|¹]] except [[
 A magical book was found at the campsite. [[DM ONLY/The Tome of Origin\|¹]]
 Imp also briefly became aware of his [[DM ONLY/meta-existance\|¹]] with that perception roll.
 
-Book pages: [[items/tome pages/Page 1 - Inception\|Page 1 - Inception]]
+Book pages: [[items/tome pages/pages/Page 01 - Inception\|Page 01 - Inception]]
 
 
 Adventure continues in [[sessions/Session 03\|Session 03]]

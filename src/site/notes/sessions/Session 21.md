@@ -10,6 +10,6 @@ Amidst the frost, a village lay dormant([[locations/villages/Slumbering Village\
 [[factions/The party\|The party]] can tell that things are out of place here, unfinished. As you solve the problem you're still faced with the important question. Just where are you?
 
 New Glyph: [[items/tome pages/glyph related/Halt Glyph\|Halt Glyph]]
-Book page: [[items/tome pages/Page 11 - neither early nor late\|Page 11 - neither early nor late]]
+Book page: [[items/tome pages/pages/Page 11 - neither early nor late\|Page 11 - neither early nor late]]
 
 Next Session: [[sessions/Session 22\|Session 22]]

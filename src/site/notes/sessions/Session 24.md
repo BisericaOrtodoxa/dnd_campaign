@@ -9,6 +9,6 @@ After meeting a familiar face, we set forth to [[locations/cities and towns/Slum
     
 Also, [[players/Imp\|Imp]] made an appointment with [[events/The SlumberHaven Sacrifice\|The SlumberHaven Sacrifice]] staff to replace their victim.
 New Glyphs: [[items/tome pages/glyph related/Soul Glyph\|Soul Glyph]]
-New Pages: [[items/tome pages/Notes from Another Version\|Notes from Another Version]]
+New Pages: [[items/tome pages/pages/Notes from Another Version\|Notes from Another Version]]
 
 Next Session: [[sessions/Session 25\|Session 25]]

@@ -14,6 +14,6 @@ In an attempt to escape fate, our 3 comedically inclined characters decided to o
 The time of conflict draws near.  The air is crackling with rebellion. 
 
 Glyphs discovered this session: [[items/tome pages/glyph related/Place - Release\|Place - Release]], [[items/tome pages/glyph related/Spin Glyph\|Spin Glyph]]
-Book pages: [[items/tome pages/Page 6 - I won't be writing here anymore\|Page 6 - I won't be writing here anymore]]
+Book pages: [[items/tome pages/pages/Page 06 - I won't be writing here anymore\|Page 06 - I won't be writing here anymore]]
 
 The adventure continues in [[sessions/Session 10\|Session 10]]

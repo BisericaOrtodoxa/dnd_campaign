@@ -13,7 +13,7 @@ Imp then proceeded to eat [[npcs/Undead Orc Wife\|Undead Orc Wife]] and there se
 Along the way, they meet [[npcs/Druid The Squirrel\|Druid The Squirrel]]. A smart squirrel.
 "Fear not the foolish, for their bluster is but the rustling of dry leaves in the wind—loud yet without weight, clamorous yet devoid of consequence" -Druid The Squirrel, towards Imp
 
-Book pages discovered this session: [[items/tome pages/Page 2 - Mundum Effingens Geometriam(Circle magic explained)\|Page 2 - Mundum Effingens Geometriam(Circle magic explained)]], [[items/tome pages/glyph related/If-Then Glyphs\|If-Then Glyphs]]
+Book pages discovered this session: [[items/tome pages/pages/Page 02 - Mundum Effingens Geometriam(Circle magic explained)\|Page 02 - Mundum Effingens Geometriam(Circle magic explained)]], [[items/tome pages/glyph related/If-Then Glyphs\|If-Then Glyphs]]
 
 Items gained this session: [[items/items/Mouse Statue\|Mouse Statue]], [[items/items/Ring of Speak with animals\|Ring of Speak with animals]]
 [[magic circles/Healing\|Healing]] circle shows up here too. The players still cant read it due to lack of knowledge.

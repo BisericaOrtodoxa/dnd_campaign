@@ -35,6 +35,6 @@ Notably, a huge flame dragon was guarding the entrance to the Warden Dungeon. Up
 The [[npcs/Slime Woman\|Slime Woman]] was also first encountered in this session.
 
 New Glyphs: [[items/tome pages/glyph related/Sense Glyph\|Sense Glyph]], [[items/tome pages/glyph related/Delay Glyph\|Delay Glyph]](tho initially the function of it was unknown)
-Book pages(in-between sessions): [[items/tome pages/Page 10 - We are born into the hum\|Page 10 - We are born into the hum]]
+Book pages(in-between sessions): [[items/tome pages/pages/Page 10 - We are born into the hum\|Page 10 - We are born into the hum]]
 Misc: [[items/handouts/Message to the party\|Message to the party]]
 The adventure continues in [[sessions/Session 19\|Session 19]].

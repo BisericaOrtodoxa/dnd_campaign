@@ -18,7 +18,7 @@ I feel it imperative to point out how a lot of the things [[DM ONLY/Wanderstop/J
 There was also the tea, brewed from fruits never before seen. And tasting like concepts(and raspberries) 
 or was it strawberry?
 
-Book pages: [[items/tome pages/Page 8 - The Legendary Vampire\|Page 8 - The Legendary Vampire]]
+Book pages: [[items/tome pages/pages/Page 08 - The Legendary Vampire\|Page 08 - The Legendary Vampire]]
 Glyphs: [[items/tome pages/glyph related/Ups and Downs\|Ups and Downs]]
 
 Notes:

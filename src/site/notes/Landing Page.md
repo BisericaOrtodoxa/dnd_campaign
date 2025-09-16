@@ -42,8 +42,10 @@ Meet the people who shape the tale:
 [[locations/Known Villages\|Villages]]
 
 🪙 Items & Relics
-[[items/tome pages/Book Pages\|Book Pages]]
+[[items/Book Pages\|Book Pages]]
+[[items/Magic Glyphs\|Magic Glyphs]]
 [[items/handouts/Handouts\|Handouts]]
-[[items/items/Noteworthy Items\|Noteworthy Items]]
+[[items/Noteworthy Items\|Noteworthy Items]]
+
 
 

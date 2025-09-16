@@ -11,6 +11,6 @@ Following some chatter, the party attacked the baron(no name given). After a lon
 
 Just as he was about to escape, The Baron was met by the sheer, immovable aura of [[npcs/Man carry box\|Man carry box]], who managed to stop the Baron in place by casting a spell on him with his Staff. The crowd of the revolutionaries attacked the Baron, leading to his death. Nothing but a naked corpse remains.
 
-Book pages: [[items/tome pages/Page 7 - Warning and Intro to Aberrations\|Page 7 - Warning and Intro to Aberrations]]
+Book pages: [[items/tome pages/pages/Page 07 - Warning and Intro to Aberrations\|Page 07 - Warning and Intro to Aberrations]]
 
 The adventure continues in [[sessions/Session 12\|Session 12]]

@@ -17,5 +17,5 @@ imp climbed a tree for 1 apple and Jerry waited for him at the bottom.
 [[players/Emery\|Emery]](bnnnz) talked to him and they managed to escape unscathed.
 They went back to [[npcs/Dwayne the Monk Johnson\|Dwayne the Monk Johnson]] and squirrel-napped him.
 
-Book pages this session: [[items/tome pages/Page 4 - My dreams can be peculiar\|Page 4 - My dreams can be peculiar]]
+Book pages this session: [[items/tome pages/pages/Page 04 - My dreams can be peculiar\|Page 04 - My dreams can be peculiar]]
 The adventure continues in [[sessions/Session 08\|Session 08]].

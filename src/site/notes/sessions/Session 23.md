@@ -11,6 +11,6 @@ As each person enters their rooms,  something out of the ordinary is found.
 
 On all of your nightstands, identical knives rest. On the walls behind them red writing lies. "It's never too late"
 The knives are thin with striking black and white handles and unreasonably sharp. Even to the untrained eyes, its obvious. They are meant to cut. _Once_
-For picture see: [[items/The Final Solution\|The Final Solution]]
+For picture see: [[items/items/The Final Solution\|The Final Solution]]
 
 Next Session: [[sessions/Session 24\|Session 24]]

@@ -17,6 +17,6 @@ Notable items:
 The Skull™️(True name: [[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]](it's wasted on imp so either demon or BNN will hold it, it can do quite a lot),
 The bag™️(True name: [[items/items/The Bag of Holding\|The Bag of Holding]]) - seemingly defies physics, can store an unknown quantity of objects regardless of their size of weight,
 [[items/items/Wand of random polymorph\|Wand of random polymorph]]  - transforms the user into a completely random creature
-Book pages: [[items/tome pages/Page 3 -The Frostbound communion\|Page 3 -The Frostbound communion]]
+Book pages: [[items/tome pages/pages/Page 03 -The Frostbound communion\|Page 03 -The Frostbound communion]]
 
 The adventure continues in [[sessions/Session 06\|Session 06]]
