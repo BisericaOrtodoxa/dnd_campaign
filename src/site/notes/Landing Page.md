@@ -12,9 +12,9 @@ This is the living record of our adventures. Use the links below to explore the 
 
 Quick access to the story as it unfolded:
 
-[[Session 1\|Session 1]] · [[Session 2\|Session 2]] · [[Session 3\|Session 3]] · [[Session 4\|Session 4]] · [[Session 5\|Session 5]]
+[[sessions/Session 01\|Session 01]] · [[sessions/Session 02\|Session 02]] · [[sessions/Session 03\|Session 03]] · [[sessions/Session 04\|Session 04]] · [[sessions/Session 05\|Session 05]]
 
-[[Session 6\|Session 6]] · [[Session 7\|Session 7]] · [[Session 8\|Session 8]] · [[Session 9\|Session 9]] · [[sessions/Session 10\|Session 10]]
+[[sessions/Session 06\|Session 06]] · [[sessions/Session 07\|Session 07]] · [[sessions/Session 08\|Session 08]] · [[sessions/Session 09\|Session 09]] · [[sessions/Session 10\|Session 10]]
 
 [[sessions/Session 11\|Session 11]] · [[sessions/Session 12\|Session 12]] · [[sessions/Session 13\|Session 13]] · [[sessions/Session 14\|Session 14]] · [[sessions/Session 15\|Session 15]]
 
