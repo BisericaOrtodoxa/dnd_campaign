@@ -10,7 +10,7 @@ bard put them to puzzle
 (meaning the light beam mirror puzzle in [[locations/regions/The Market of Silent Bargains\|The Market of Silent Bargains]] )
 After that they went to water temple beneath it.
 imp tanked 2 water wierds then they went right drugged mermaids([[npcs/Singing Mermaids/Judy\|Judy]] and [[npcs/Singing Mermaids/Ash\|Ash]], talented singers) went to the fish ppl
-went to the kraken
+went to [[npcs/Divinity/The Kraken\|The Kraken]].
 something something [[DM ONLY/Shattering\|Shattering]](fuck you melon -Araki, while making the wiki)
 he lowkey chill
 imp after failing multiple times passed by giving him [[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]]
