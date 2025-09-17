@@ -63,6 +63,7 @@ Divinity:
 - [[npcs/Divinity/Umberlee\|Umberlee]]
 
 { .block-language-dataview}
+
 Misc:
 - [[npcs/Misc/apple saleswoman\|apple saleswoman]]
 - [[npcs/Misc/band of bandits\|band of bandits]]
