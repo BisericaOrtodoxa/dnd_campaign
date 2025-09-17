@@ -56,6 +56,7 @@ Singing Mermaids:
 - [[npcs/Singing Mermaids/Judy\|Judy]]
 
 { .block-language-dataview}
+
 Divinity:
 - [[npcs/Divinity/The Frozen God\|The Frozen God]]
 - [[npcs/Divinity/The Kraken\|The Kraken]]

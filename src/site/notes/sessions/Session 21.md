@@ -7,7 +7,7 @@ Upon breaking free of their chains, the adventurers find themselves amidst an en
 
 Amidst the frost, a village lay dormant([[locations/villages/Slumbering Village\|Slumbering Village]]). For it's inhabitants are plagued by a painful slumber. At the center of the lake lies it's root cause. A "cat" that seemingly is both asleep and awake at the same time[[DM ONLY/npcs/The Great Fog\|¹]]. Entity shrouded in [[DM ONLY/Uncertainty\|¹]], slumbering and causing the village to undergo horrific nightmares by its sheer presence.
 
-[[factions/The party\|The party]] can tell that things are out of place here, unfinished. As you solve the problem you're still faced with the important question. Just where are you?
+[[factions/The Party\|The Party]] can tell that things are out of place here, unfinished. As you solve the problem you're still faced with the important question. Just where are you?
 
 New Glyph: [[items/tome pages/glyph related/Halt Glyph\|Halt Glyph]]
 Book page: [[items/tome pages/pages/Page 11 - neither early nor late\|Page 11 - neither early nor late]]

@@ -3,4 +3,4 @@
 ---
 
 #NPCS 
-Escaped [[factions/The party\|The party]] by doing a seal maneuver over frozen ice.
+Escaped [[factions/The Party\|The Party]] by doing a seal maneuver over frozen ice.

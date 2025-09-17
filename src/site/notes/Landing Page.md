@@ -28,7 +28,7 @@ Quick access to the story as it unfolded:
 
 Meet the people who shape the tale:
 
-[[factions/The party\|The party]]
+[[factions/The Party\|The Party]]
 [[npcs/NPCS\|NPCS]]
 
 🗺️ Locations

@@ -5,7 +5,7 @@
 #sessions
 Written by BNN with DM changes by Araki
 
-[[factions/The party\|The party]] went to [[npcs/Major NPCS/The Witch\|The Witch]]'s house to complete the ritual to free [[npcs/Flying bastion residents/Carl\|Carl]] from being a familiar, but she was not there so they proceeded to jump through some hoops(beans means [[locations/buildings/The Path of The Sage\|The Path of The Sage]]) and reach the designated ritual point™.
+[[factions/The Party\|The Party]] went to [[npcs/Major NPCS/The Witch\|The Witch]]'s house to complete the ritual to free [[npcs/Flying bastion residents/Carl\|Carl]] from being a familiar, but she was not there so they proceeded to jump through some hoops(beans means [[locations/buildings/The Path of The Sage\|The Path of The Sage]]) and reach the designated ritual point™.
 
 After Carl botched the ritual, the bard ([[npcs/Major NPCS/Seiro\|Seiro]]) appeared and stole the magical crack[[DM ONLY/Reality Fracture\|¹]] in the space-time and and then left.
 [[npcs/Flying bastion residents/Carl\|Carl]] is no longer a familiar, but he was left in a bad state so [[players/Remy\|Remy]] put him in a medically induced coma to recover, very gently.
