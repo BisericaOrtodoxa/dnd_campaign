@@ -56,7 +56,12 @@ Singing Mermaids:
 - [[npcs/Singing Mermaids/Judy\|Judy]]
 
 { .block-language-dataview}
+Divinity:
+- [[npcs/Divinity/The Frozen God\|The Frozen God]]
+- [[npcs/Divinity/The Kraken\|The Kraken]]
+- [[npcs/Divinity/Umberlee\|Umberlee]]
 
+{ .block-language-dataview}
 Misc:
 - [[npcs/Misc/apple saleswoman\|apple saleswoman]]
 - [[npcs/Misc/band of bandits\|band of bandits]]
