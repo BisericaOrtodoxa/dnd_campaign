@@ -54,4 +54,3 @@ On the way there [[factions/The Party\|The Party]] encounters a [[locations/vill
 
 Handouts: [[items/handouts/Letter from Orin\|Letter from Orin]]
 
-DM note: we left off right before chapter 4 in the one-shot.
