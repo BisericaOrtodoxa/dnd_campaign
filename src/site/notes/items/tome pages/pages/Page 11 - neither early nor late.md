@@ -5,4 +5,4 @@
 #tome_pages
 
 ![[Ci=6-A7]=kATAp.jpg]]
-Describes pre-[[DM ONLY/Shattering\|¹]] 
+Describes pre-[[DM ONLY/events/Shattering\|¹]] 

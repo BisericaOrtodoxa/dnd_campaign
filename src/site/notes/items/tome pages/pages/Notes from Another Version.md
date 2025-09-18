@@ -3,7 +3,7 @@
 ---
 
 #tome_pages
-Only tangible evidence so far about [[DM ONLY/Parallel Universes\|¹]]
+Only tangible evidence so far about [[DM ONLY/concepts/Parallel Universes\|¹]]
 
 note 1:
 The party was tasked with eradicating the source of the poisoned river in Alterham

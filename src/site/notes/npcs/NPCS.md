@@ -37,11 +37,11 @@ NPCS:
 { .block-language-dataview}
 
 Major NPCS:
-- [[npcs/Major NPCS/Druid The Squirrel\|Druid The Squirrel]]
-- [[npcs/Major NPCS/Dwayne the Monk Johnson\|Dwayne the Monk Johnson]]
-- [[npcs/Major NPCS/Mr. Loan\|Mr. Loan]]
-- [[npcs/Major NPCS/Seiro\|Seiro]]
-- [[npcs/Major NPCS/The Witch\|The Witch]]
+- [[npcs/Other Major NPCS/Druid The Squirrel\|Druid The Squirrel]]
+- [[npcs/Other Major NPCS/Dwayne the Monk Johnson\|Dwayne the Monk Johnson]]
+- [[npcs/Other Major NPCS/Mr. Loan\|Mr. Loan]]
+- [[npcs/Other Major NPCS/Seiro\|Seiro]]
+- [[npcs/Other Major NPCS/The Witch\|The Witch]]
 
 { .block-language-dataview}
 

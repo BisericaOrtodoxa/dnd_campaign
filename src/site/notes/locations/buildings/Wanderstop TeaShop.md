@@ -3,4 +3,4 @@
 ---
 
 #locations #building 
-Tea shop located in a mistery demiplane. Current employer of [[DM ONLY/npcs/Wanderstop/Josephine\|Josephine]]
+Tea shop located in a mistery demiplane. Current employer of [[DM ONLY/creatures of all kinds/npcs/Wanderstop/Josephine\|Josephine]]

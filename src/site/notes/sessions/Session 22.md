@@ -8,6 +8,6 @@ summary:
 💀 for about ~1-1.3 hours
 [[npcs/Misc/Mr 💀\|Mr 💀]] was also somehow as socially awkward as imp
 
-[[DM ONLY/npcs/The Great Fog\|¹]] also makes an appearance.
+[[DM ONLY/creatures of all kinds/npcs/The Great Fog\|¹]] also makes an appearance.
 
 Next session: [[sessions/Session 23\|Session 23]]

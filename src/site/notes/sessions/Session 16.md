@@ -11,7 +11,7 @@ bard put them to puzzle
 After that they went to water temple beneath it.
 imp tanked 2 water wierds then they went right drugged mermaids([[npcs/Singing Mermaids/Judy\|Judy]] and [[npcs/Singing Mermaids/Ash\|Ash]], talented singers) went to the fish ppl
 went to [[npcs/Divinity/The Kraken\|The Kraken]].
-something something [[DM ONLY/Shattering\|Shattering]](fuck you melon -Araki, while making the wiki)
+something something [[DM ONLY/events/Shattering\|Shattering]](fuck you melon -Araki, while making the wiki)
 he lowkey chill
 imp after failing multiple times passed by giving him [[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]]
 The intent behind the travel to this location was to save [[players/Leo\|Leo]]'s soul, witch got transported because of the cards

@@ -3,4 +3,4 @@
 ---
 
 #NPCS #neutral
-Blacksmith. Owns a [[DM ONLY/Tapajós\|XXXXXXX branded supply portal device]].
+Blacksmith. Owns a [[DM ONLY/factions/Tapajós\|XXXXXXX branded supply portal device]].
