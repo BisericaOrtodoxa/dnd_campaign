@@ -84,11 +84,12 @@
             .linkDirectionalArrowRelPos(0.5)
             .autoPauseRedraw(false)
             .linkColor((link) => {
+                const sourceNodeColor = link.source.color || getCssVar("--graph-main");
                 if (hoverNode == null) {
-                    return color;
+                    return sourceNodeColor;
                 }
                 if (link.source.id == hoverNode.id || link.target.id == hoverNode.id) {
-                    return color;
+                    return sourceNodeColor;
                 } else {
                     return mutedColor;
                 }
@@ -97,7 +98,12 @@
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
-                
+                const nodeColor = node.color || getCssVar("--graph-main");
+                    
+                // Apply folder color to node fill and stroke
+                ctx.fillStyle = nodeColor;
+                ctx.strokeStyle = nodeColor;
+
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
                 if (hoverNode == null) {
