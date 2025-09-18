@@ -107,10 +107,10 @@
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
                 if (hoverNode == null) {
-                    ctx.fillStyle = color;
+                    ctx.fillStyle = nodeColor; //replaced color with nodeColor
                 } else {
                     if (node == hoverNode || highlightNodes.has(node.url)) {
-                        ctx.fillStyle = color;
+                        ctx.fillStyle = nodeColor; //replaced color with nodeColor
                     } else {
                         ctx.fillStyle = mutedColor;
                     }
