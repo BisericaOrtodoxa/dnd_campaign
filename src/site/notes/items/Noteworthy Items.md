@@ -8,6 +8,7 @@ Noteworthy Items:
 - [[items/items/Frostbane\|Frostbane]]
 - [[items/items/Frostweaver Amulet\|Frostweaver Amulet]]
 - [[items/items/Immovable Rod\|Immovable Rod]]
+- [[items/items/ivory flute\|ivory flute]]
 - [[items/items/Mouse Statue\|Mouse Statue]]
 - [[items/items/Portable Gambling Machine\|Portable Gambling Machine]]
 - [[items/items/Ring of Naked Invisibility\|Ring of Naked Invisibility]]

@@ -46,7 +46,7 @@ Shall 'tchick!' to tell them I'm drinking."
 
 Soon after( in-between squabbling about gambling addiction) a mechanical bee shatters the window of the tavern, and delivers a message containing a call to action. A local is looking for help finding his lost daughter. His name is [[DM ONLY/creatures of all kinds/npcs/Orin Farlight\|Orin Farlight]], and his missing daughter is named [[npcs/Bastion of the Frost Lord/Belma Farlight\|Belma Farlight]]. Upon looking into it further and playing hide and seek with the other sister, [[npcs/Bastion of the Frost Lord/Aramila Farlight\|Aramila Farlight]], the party receives the [[items/items/Scrimshaw Mirror\|Scrimshaw Mirror]] and heads off to Lord Frost's residence.
     
-On the way there [[factions/The Party\|The Party]] encounters a [[locations/villages/Goblin village\|Goblin village]], buys an [[items/ivory flute\|ivory flute]] and a [[items/items/Ring of Naked Invisibility\|Ring of Naked Invisibility]].
+On the way there [[factions/The Party\|The Party]] encounters a [[locations/villages/Goblin village\|Goblin village]], buys an [[items/items/ivory flute\|ivory flute]] and a [[items/items/Ring of Naked Invisibility\|Ring of Naked Invisibility]].
     
 [[players/Emery\|Emery]](played by melon from this session onward) tries and fails to rob a dysfunctional goblin household, gets the father killed and then sells the entire settlement using the [[items/items/Portable Gambling Machine\|Portable Gambling Machine]] obtained from [[npcs/Other Major NPCS/Mr. Loan\|Mr. Loan]]. To stop his self destructive behavior [[players/Remy\|Remy]] tries to sell the machine and it simply vanishes.
 
