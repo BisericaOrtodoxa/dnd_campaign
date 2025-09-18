@@ -39,8 +39,8 @@ function getGraph(data) {
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
-    if (parts.length >= 3) {
-      group = parts[parts.length - 2];
+    if (parts.length >= 2) {
+      group = parts[0]; // First folder is the group (items, sessions, players, etc.)
     }
     nodes[v.url] = {
       id: idx,
