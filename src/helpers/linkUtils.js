@@ -39,7 +39,7 @@ function getGraph(data) {
   (data.collections.note || []).forEach((v, idx) => {
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
-    let group = "none";
+    let group = "root";
     if (parts.length >= 2) {
       group = parts[0]; // First folder is the group (items, sessions, players, etc.)
     }
