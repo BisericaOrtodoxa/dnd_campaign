@@ -3,4 +3,6 @@
 ---
 
 #NPCS 
+# Cultist escapee
+
 Escaped [[factions/The Party\|The Party]] by doing a seal maneuver over frozen ice.

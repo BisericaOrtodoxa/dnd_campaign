@@ -3,3 +3,5 @@
 ---
 
 #players #dead
+# Leo
+Died by the hands of [[npcs/Misc/ferocious canyon dwellers\|ferocious canyon dwellers]].

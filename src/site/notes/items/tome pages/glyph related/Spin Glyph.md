@@ -3,4 +3,6 @@
 ---
 
 #magic_glyphs
+# Spin Glyph
+
 ![Pasted image 20250913202136.png](/img/user/items/tome%20pages/image%20files/Pasted%20image%2020250913202136.png)

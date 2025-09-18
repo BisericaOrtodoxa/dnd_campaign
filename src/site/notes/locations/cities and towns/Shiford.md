@@ -3,4 +3,6 @@
 ---
 
 #locations
+# Shiford
+
 Port town in the country of [[locations/countries/Seamersia\|Seamersia]]

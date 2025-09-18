@@ -3,4 +3,6 @@
 ---
 
 #events
+# The death of Emery and Leo
+
 Takes place in [[sessions/Session 25\|Session 25]]

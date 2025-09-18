@@ -3,3 +3,4 @@
 ---
 
 #NPCS #dead
+# 2 greyhawk alleyway guards

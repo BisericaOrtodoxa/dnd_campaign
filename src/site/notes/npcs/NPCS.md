@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/npcs/npcs/"}
 ---
 
-NPCS:
+# NPCS:
 
 [[locations/cities and towns/Alterham\|Alterham]] related:
 - [[npcs/Alterham Related/Giant Shepherd\|Giant Shepherd]]

@@ -3,4 +3,6 @@
 ---
 
 #locations
+# The University Of Arcane Science and Applied Magics
+
 Arcane College located in [[locations/cities and towns/Westford\|Westford]].

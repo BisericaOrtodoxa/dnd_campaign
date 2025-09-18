@@ -4,3 +4,4 @@
 
 #NPCS #neutral
 
+# Semearsia's Court Wizard

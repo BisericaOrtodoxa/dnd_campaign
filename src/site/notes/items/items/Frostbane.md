@@ -3,6 +3,8 @@
 ---
 
 #items
+# Frostbane
+
 Weapon, *very rare*
 
 This appears to be a large kitchen knife, though it can be wielded exactly like a dagger. 

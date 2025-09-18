@@ -3,4 +3,6 @@
 ---
 
 #items 
-Transforms the user into a completely random creature that usually matches the user's CR
+# Wand of random polymorph
+
+Transforms the user into a completely random creature that usually matches the user's CR.

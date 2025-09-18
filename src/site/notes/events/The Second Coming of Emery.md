@@ -3,4 +3,6 @@
 ---
 
 #events 
+# The Second Coming of Emery
+
 Takes place in [[sessions/Session 29\|Session 29]]

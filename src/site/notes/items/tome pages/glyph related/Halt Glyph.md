@@ -3,4 +3,6 @@
 ---
 
 #magic_glyphs #tome_pages
+# Halt Glyph
+
 ![Pasted image 20250914133319.png](/img/user/items/tome%20pages/image%20files/Pasted%20image%2020250914133319.png)

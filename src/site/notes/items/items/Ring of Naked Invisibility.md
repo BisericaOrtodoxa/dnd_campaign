@@ -3,4 +3,6 @@
 ---
 
 #items 
+# Ring of Naked Invisibility
+
 Makes you invisible and nothing else, not even your clothes

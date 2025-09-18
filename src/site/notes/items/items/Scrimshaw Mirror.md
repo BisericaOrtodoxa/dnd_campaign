@@ -3,6 +3,8 @@
 ---
 
 #items
+# Scrimshaw Mirror
+
 Wondrous item, rare 
 
 This ornate mirror, carved from knucklehead trout ivory, has a peculiar silver surface. While holding this mirror, you can use a bonus action to cause it to animate. 

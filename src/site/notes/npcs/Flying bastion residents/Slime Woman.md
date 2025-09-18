@@ -3,6 +3,8 @@
 ---
 
 #NPCS #neutral #bastion_staff
+# Slime Woman
+
 Intelligent slime capable of taking a humanoid shape.
 Current resident of [[locations/buildings/The Flying Bastion\|The Flying Bastion]].
 (Art by JP_Art)

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/known-villages/"}
 ---
 
-Known villages:
+# Known Villages:
 - [[locations/villages/Goblin village\|Goblin village]]
 - [[locations/villages/Slumbering Village\|Slumbering Village]]
 - [[locations/villages/Sutton\|Sutton]]

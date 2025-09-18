@@ -3,4 +3,6 @@
 ---
 
 #locations 
+# The Free City of Greyhawk(tuah)
+
 Major city in [[locations/countries/Seamersia\|Seamersia]].
