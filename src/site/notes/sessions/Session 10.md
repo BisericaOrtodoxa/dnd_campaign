@@ -3,6 +3,8 @@
 ---
 
 #sessions 
+# Session 10
+
 Things are in full swing now!
 The party encounters  2 assassins that failed at their job quite badly. One of them is will be residing in the bag of holding for quite a while.([[npcs/Misc/Tortured Capture Assassin\|Tortured Capture Assassin]])
 

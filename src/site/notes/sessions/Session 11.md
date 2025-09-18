@@ -3,6 +3,7 @@
 ---
 
 #sessions
+# Session 11
 
 Following up on last time, 
 Almost the entire [[npcs/Greyhawk related/The Greyhawk Baron\|The Greyhawk Baron]] manor got explored. Any sort of smart play or stealth got destroyed by imp being his true self. 

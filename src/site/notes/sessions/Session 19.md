@@ -3,7 +3,9 @@
 ---
 
 #sessions
-All the people in the castle were invisdible due to [[npcs/Wesford related/Semearsia's Court Wizard\|Semearsia's Court Wizard]]
+# Session 19
+
+All the people in the castle were invisible due to [[npcs/Wesford related/Semearsia's Court Wizard\|Semearsia's Court Wizard]]
 -the party turned [[npcs/Wesford related/Seamersia's King\|Seamersia's King]] into stone via [[items/items/The stoneskin pendant\|The stoneskin pendant]]. 
 -prince gone to build 
 -[[items/items/The Deck of Many Things\|The Deck of Many Things]] 

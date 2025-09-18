@@ -3,6 +3,8 @@
 ---
 
 #sessions
+# Session 27
+
 Gambling has been a disaster for our players finances.
 
 Using one of the rewards for wining the tournament from [[sessions/Session 26\|session 26]], [[factions/The Party\|The Party]] tracks down [[locations/buildings/Karlov Manor\|Karlov Manor]] and retrieves [[DM ONLY/Reality Fracture\|a strange bend in reality that they decide to call "the artifact"]].

@@ -3,7 +3,7 @@
 ---
 
 #sessions
-
+# Session 03
 They went to [[npcs/Other Major NPCS/The Witch\|The Witch]] and got send to [[The Capital of Seamersia\|The Capital of Seamersia]].
 They bought 2 sheep(sold to them by a [[npcs/Alterham Related/Giant Shepherd\|Giant Shepherd]]) and skinned and butchered them they went on a carriage and cooked 3 thieves (literally).
 

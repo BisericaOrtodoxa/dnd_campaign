@@ -3,6 +3,7 @@
 ---
 
 #sessions
+# Session 28
 
 The machines lied. They attempted to take the party into a controlled environment and ambush them. They failed. [[players/Gorich\|Gorich]] spotted [[npcs/Other Major NPCS/Seiro\|Seiro]] watching from afar. 
 After playing the song of their life(

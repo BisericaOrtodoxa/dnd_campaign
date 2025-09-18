@@ -3,6 +3,8 @@
 ---
 
 #sessions
+# Session 29
+
 Written by BNN with DM changes by Araki
 
 [[factions/The Party\|The Party]] went to [[npcs/Other Major NPCS/The Witch\|The Witch]]'s house to complete the ritual to free [[npcs/Flying bastion residents/Carl\|Carl]] from being a familiar, but she was not there so they proceeded to jump through some hoops(beans means [[locations/buildings/The Path of The Sage\|The Path of The Sage]]) and reach the designated ritual point™.

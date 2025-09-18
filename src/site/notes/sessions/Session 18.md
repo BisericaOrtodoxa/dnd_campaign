@@ -3,6 +3,8 @@
 ---
 
 #sessions 
+# Session 18
+
 4/20/25
 
 The party hurries to rescue [[players/Emery\|Emery]]. Which vanished due to drawing a cards from [[items/items/The Deck of Many Things\|The Deck of Many Things]].

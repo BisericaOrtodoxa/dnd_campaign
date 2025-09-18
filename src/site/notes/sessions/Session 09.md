@@ -3,6 +3,8 @@
 ---
 
 #sessions
+# Session 09
+
 The party managed to come across something called "[[locations/buildings/The Forgive or Forget Parlor\|The Forgive or Forget Parlor]]". A revolutionary program that is meant to help people with memory related trauma.(at least that's what the people there were saying). 
 Curiously, an old person([[npcs/Greyhawk related/Forgive Forget Pacient\|Forgive Forget Pacient]]) that got out from that establishment forgot most of their life. The party dutifully alerted the staff of the parlor and they seem to have begun taking action. Was this a good choice? Maybe this building hides more than what is observed on the surface... Or maybe not, who knows? There are more pressing issues at hand anyhow.
 

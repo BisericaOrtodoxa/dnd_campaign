@@ -3,6 +3,7 @@
 ---
 
 #sessions
+# Session 30
 
 After [[npcs/Flying bastion residents/Carl\|Carl]] recovered in the barracks, he becomes a new man. He is handsome now. In order for permanent lodging at the flying bastion, he shares a quest opportunity with the party.
 

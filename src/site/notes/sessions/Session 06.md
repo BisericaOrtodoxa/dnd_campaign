@@ -3,6 +3,8 @@
 ---
 
 #sessions
+# Session 06
+
 After boarding a ship to cross from the peninsula (that once belonged to [[locations/countries/Hartombia\|Hartombia]]) to [[locations/cities and towns/Shiford\|Shiford]] (both located in the country of [[locations/countries/Seamersia\|Seamersia]]), the party got attacked by pirates, which were defeated quick.
 They debarked at port, exchanged items with an elf merchant.
 

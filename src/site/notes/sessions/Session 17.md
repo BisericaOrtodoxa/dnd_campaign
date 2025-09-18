@@ -3,6 +3,8 @@
 ---
 
 #sessions 
+# Session 17
+
 [[items/items/The Deck of Many Things\|The Deck of Many Things]] and its hilarious consequences.
 Cards rolled(BNN/[[players/Emery\|Emery]]): 
 Moon. You gain the ability to cast Wish 1d3 times.

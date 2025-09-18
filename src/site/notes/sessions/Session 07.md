@@ -3,6 +3,8 @@
 ---
 
 #sessions 
+# Session 07
+
 The party arrived in the village([[locations/villages/Sutton\|Sutton]]) and they immediately headed to the church and on the way they scared a child
 In the church they converted imp to the religion of the goddess of the sea [[npcs/Divinity/Umberlee\|Umberlee]].
 They double blessed [[npcs/Other Major NPCS/Druid The Squirrel\|Druid The Squirrel]] which might have made him strong and then gave a mana crystal to [[npcs/Flying bastion residents/Carl\|Carl]]

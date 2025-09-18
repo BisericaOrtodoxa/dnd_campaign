@@ -3,6 +3,8 @@
 ---
 
 #sessions
+# Session 02
+
 After fighting 2 hawks, [[factions/The Party\|The Party]] camps in the wilderness for the first time. A stranger appears to be stalking them from afar(later revealed to be a cultist).
 After finding their base of operations, they realize that [[DM ONLY/factions/The Crystal Frost Cult\|the cult]]) has been poisoning the water supply of a nearby settlement.
 

@@ -3,7 +3,8 @@
 ---
 
 #sessions 
-Summary:
+# Session 05
+
 The party finished the necromancer's crypt.
 
 New knowledge:

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/sessions/session-25/"}
 ---
 
-#sessions #incomplete
+#sessions 
+# Session 25
 
 [[factions/The Party\|The Party]] heard from the sewer cult that there was a god that needed appeasement (hence [[events/The SlumberHaven Sacrifice\|The SlumberHaven Sacrifice]]) so they went to confront it in a volcano. 
 At the start, they went over the canyon with some rope and almost died like 3 times inside the dungeon. There was a spider that either turned invisible or walked through a different dimension. 
