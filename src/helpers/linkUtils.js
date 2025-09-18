@@ -1,5 +1,6 @@
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
+const { folderColors, getFolderColor } = require('./folderColors');
 
 function caselessCompare(a, b) {
   return a.toLowerCase() === b.toLowerCase();
@@ -47,6 +48,7 @@ function getGraph(data) {
       title: v.data.title || v.fileSlug,
       url: v.url,
       group,
+      color: getFolderColor(group), // Add color based on folder
       home:
         v.data["dg-home"] ||
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
