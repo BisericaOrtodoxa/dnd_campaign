@@ -24,6 +24,8 @@ Quick access to the story as it unfolded:
 
 [[sessions/Session 26\|Session 26]] · [[sessions/Session 27\|Session 27]] · [[sessions/Session 28\|Session 28]] · [[sessions/Session 29\|Session 29]] · [[sessions/Session 30\|Session 30]]
 
+[[sessions/Session 31\|Session 31]]
+
 
 
 Meet the people who shape the tale:
