@@ -26,8 +26,6 @@ Quick access to the story as it unfolded:
 
 [[sessions/Session 31\|Session 31]]
 
-
-
 Meet the people who shape the tale:
 
 [[factions/The Party\|The Party]]
