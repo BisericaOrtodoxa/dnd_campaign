@@ -8,9 +8,9 @@
 
 This is the living record of our adventures. Use the links below to explore the tale, revisit characters, and uncover the world as it unfolds.
 
-📜 Sessions
+**📜 Sessions**
 
-Quick access to the story as it unfolded:
+<u>Quick access to the story as it unfolded:</u>
 
 [[sessions/Session 01\|Session 01]] · [[sessions/Session 02\|Session 02]] · [[sessions/Session 03\|Session 03]] · [[sessions/Session 04\|Session 04]] · [[sessions/Session 05\|Session 05]]
 
@@ -26,14 +26,12 @@ Quick access to the story as it unfolded:
 
 [[sessions/Session 31\|Session 31]]
 
-
-Meet the people who shape the tale:
+<u>Meet the people who shape the tale:</u>
 
 [[factions/The Party\|The Party]]
 [[npcs/NPCS\|NPCS]]
 
-🗺️ Locations
-
+<u>🗺️ Locations</u>
 
 [[locations/Known Countries\|Countries]]
 
@@ -43,7 +41,9 @@ Meet the people who shape the tale:
 
 [[locations/Known Villages\|Villages]]
 
-🪙 Items & Relics
+<u>
+🪙 Items & Relics</u>
+
 [[items/Book Pages\|Book Pages]]
 [[items/Magic Glyphs\|Magic Glyphs]]
 [[items/handouts/Handouts\|Handouts]]
