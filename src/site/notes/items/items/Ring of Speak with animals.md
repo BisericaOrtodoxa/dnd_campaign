@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/ring-of-speak-with-animals/"}
+{"dg-publish":true,"permalink":"/items/items/ring-of-speak-with-animals/","metatags":{"og:title":"Ring of Speak with animals","og:description":"#items","og:image":""}}
 ---
 
 # Ring of Speak with animals
