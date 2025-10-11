@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/wand-of-random-polymorph/"}
+{"dg-publish":true,"permalink":"/items/items/wand-of-random-polymorph/","metatags":{"og:title":"Wand of random polymorph","og:description":""}}
 ---
 
 #items 

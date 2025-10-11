@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/the-stoneskin-pendant/"}
+{"dg-publish":true,"permalink":"/items/items/the-stoneskin-pendant/","metatags":{"og:title":"The stoneskin pendant"}}
 ---
 
 #items 
