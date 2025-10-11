@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/the-final-solution/","metatags":{"description":"Gifted to The Party to end themselves. There are 3 in existence","og:title":"The Final Solution","og:image":"https://dndprivate.vercel.app/img/optimized/iRr05fkXIy-700.webp"}}
+{"dg-publish":true,"permalink":"/items/items/the-final-solution/","metatags":{"og:description":"Gifted to The Party to end themselves. There are 3 in existence","og:title":"The Final Solution","og:image":"https://dndprivate.vercel.app/img/optimized/iRr05fkXIy-700.webp"}}
 ---
 
 #items 
