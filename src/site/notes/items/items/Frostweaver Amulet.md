@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/frostweaver-amulet/","metatags":{"og:title":"Frostweaver Amulet","og:description":"This enchanted amulet is a small, intricately crafted crystal suspended from a delicate silver chain. When activated with a simple incantation, the Frostweaver Amulet allows its wearer to freeze water within sight. The effect is temporary, lasting only a few minutes, and is perfect for creating makeshift bridges, barriers, or distractionss"}}
+{"dg-publish":true,"permalink":"/items/items/frostweaver-amulet/","metatags":{"og:title":"Frostweaver Amulet","og:description":"This enchanted amulet is a small, intricately crafted crystal suspended from a delicate silver chain. When activated with a simple incantation, the Frostweaver Amulet allows its wearer to freeze water within sight. The effect is temporary, lasting only a few minutes, and is perfect for creating makeshift bridges, barriers, or distractionss","og:image":"https://dndprivate.vercel.app/img/optimized/hTo5xfUGYb-700.webp"}}
 ---
 
 # Frostweaver Amulet

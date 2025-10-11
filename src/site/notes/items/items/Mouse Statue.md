@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/mouse-statue/","metatags":{"og:title":"Mouse Statue","og:description":"While having this item in your inventory, you can detect nearby cheese. May cause cheese cravings"}}
+{"dg-publish":true,"permalink":"/items/items/mouse-statue/","metatags":{"og:title":"Mouse Statue","og:description":"While having this item in your inventory, you can detect nearby cheese. May cause cheese cravings","og:image":"https://dndprivate.vercel.app/img/optimized/K5Yq3INycZ-700.webp"}}
 ---
 
 #items 
