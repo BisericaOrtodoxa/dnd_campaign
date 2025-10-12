@@ -5,10 +5,11 @@
 Noteworthy Items:
 
 - [[items/items/DOGSHIT SWORD 1\|DOGSHIT SWORD 1]]
+- [[items/items/eight chairs\|eight chairs]]
 - [[items/items/Frostbane\|Frostbane]]
 - [[items/items/Frostweaver Amulet\|Frostweaver Amulet]]
 - [[items/items/Immovable Rod\|Immovable Rod]]
-- [[items/items/ivory flute\|ivory flute]]
+- [[items/items/Ivory flute\|Ivory flute]]
 - [[items/items/Mouse Statue\|Mouse Statue]]
 - [[items/items/Portable Gambling Machine\|Portable Gambling Machine]]
 - [[items/items/Ring of Naked Invisibility\|Ring of Naked Invisibility]]

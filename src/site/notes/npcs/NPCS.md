@@ -66,6 +66,7 @@ Divinity:
 
 Misc:
 - [[npcs/Misc/apple saleswoman\|apple saleswoman]]
+- [[npcs/Misc/bakery customer\|bakery customer]]
 - [[npcs/Misc/band of bandits\|band of bandits]]
 - [[npcs/Misc/Cultist escapee\|Cultist escapee]]
 - [[npcs/Misc/Donkey eater merchant\|Donkey eater merchant]]
