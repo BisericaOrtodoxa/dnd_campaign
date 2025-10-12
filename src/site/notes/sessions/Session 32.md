@@ -14,5 +14,6 @@ Despite this, [[players/Gorich\|Gorich]] managed to sneak trough.
 [[players/Emery\|Emery]] stole the papers of a random immigrant to gain entry then proceeded to sneak the remaining members trough a bag of holding. 
 What followed was the **bombing of a homeless shelter**, then the “heroic” aid in damage control to earn favor and access to the inner city. 
 An unfortunate [[npcs/Misc/Tortured Capture Assassin\|Tortured Capture Assassin]] got executed after attempting to sneak in illegally.
+In order to turn invisible, [[players/Emery\|Emery]] got naked. his invisibility got forcefully turned off resulting in him exposing himself for the world to see. Lucky him there were no children around.
 
 As a [[npcs/Misc/bakery customer\|bakery customer]] told them, every citizen is logged into [[locations/buildings/The Registrar\|The Registrar]]. To find out further info about the whereabouts of [[npcs/Other Major NPCS/Seiro\|Seiro]], [[factions/The Party\|The Party]] aims to enter the building and look trough any entries related to said person.
