@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-06/"}
+{"dg-publish":true,"permalink":"/sessions/session-06/","metatags":{"og:title":"Session 06","og:description":"After boarding a ship to cross from the peninsula to Shiford, the party got attacked by pirates, which were defeated quick. They debarked at port, exchanged items with an elf merchant.  Strangely, they keep meeting the bard and they didn't question it. Met Carl and managed to cross the rocky bridge.  The Witch is strange, Carl seems scared of her.  Found The Veteran in a camp in the forest, along with a giant and some other humans.  Met The Smartest Elk in Existence and didn't gain any new information whatsoever, shutouts to Imp  Emery(still played by BNN at this point) is koala temporarily","og:image":""}}
 ---
 
 #sessions
