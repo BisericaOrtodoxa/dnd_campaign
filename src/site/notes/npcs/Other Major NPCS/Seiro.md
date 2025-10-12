@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/other-major-npcs/seiro/"}
+{"dg-publish":true,"permalink":"/npcs/other-major-npcs/seiro/","metatags":{"og:title":"Seiro","og:description":"Bard first encountered in Session 01. Present on the ship that crossed The Party to Shiford.  Aided the party in The Greyhawk Insurrection via bardic inspiration. Presumably sent a cryptic message accompanied by knifes.","og:image":""}}
 ---
 
 #NPCS

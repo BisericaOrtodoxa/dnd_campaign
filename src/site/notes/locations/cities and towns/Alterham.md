@@ -5,4 +5,3 @@
 #locations
 # Alterham
 
-The place where it all began.
