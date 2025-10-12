@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-13/"}
+{"dg-publish":true,"permalink":"/sessions/session-13/","metatags":{"og:title":"Session 13","og:description":"The capital Westford stands before The Party. Upon entering it, it is decided that Seamersia's King does not seem to be viewed badly by his subjects, After touching a strangely colored frog, Imp gets higher than a kite. Jerry and his crew are doing just fine. Their family grows.","og:image":""}}
 ---
 
 #sessions

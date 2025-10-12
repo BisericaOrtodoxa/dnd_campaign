@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-18/"}
+{"dg-publish":true,"permalink":"/sessions/session-18/","metatags":{"og:title":"Session 18","og:description":"The party hurries to rescue Emery. Which vanished due to drawing a cards from The Deck of Many Things. They also drew many many cards.","og:image":""}}
 ---
 
 #sessions 
@@ -22,7 +22,7 @@ You gain proficiency and Expertise in your choice of History, Insight, Intimidat
     
 The effects of the wish spells are also like this : The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast wish ever again if you suffer this stress.
     
-so far bnn/[[players/Emery\|Emery]] passed the 33% 2 times in a row!(but i rolled it privately)
+
 
 ![Pasted image 20250914123713.png](/img/user/sessions/image%20files/Pasted%20image%2020250914123713.png)
 ![Pasted image 20250914123736.png](/img/user/sessions/image%20files/Pasted%20image%2020250914123736.png)

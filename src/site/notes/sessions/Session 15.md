@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-15/"}
+{"dg-publish":true,"permalink":"/sessions/session-15/","metatags":{"og:title":"Session 15","og:description":"The Obsidian Ball is also mentioned for the first time in the recaps, although it was obtained in an earlier session. It shows the players how low their reading comprehension is.  Other than this i don't have a recap for this session.","og:image":""}}
 ---
 
 #sessions #incomplete

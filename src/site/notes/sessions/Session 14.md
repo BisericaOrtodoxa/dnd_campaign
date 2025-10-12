@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-14/"}
+{"dg-publish":true,"permalink":"/sessions/session-14/","metatags":{"og:title":"Session 14","og:description":"This session is also poorly documented on my end.  This is the first mention of The Deck of Many Things. it causes horrific events that eventually lead to the wiping out of the frozen cult(tho i don't think that happens in this exact session)","og:image":""}}
 ---
 
 #sessions #incomplete
