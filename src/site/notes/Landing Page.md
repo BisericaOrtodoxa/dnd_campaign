@@ -27,7 +27,7 @@ This is the living record of our adventures. Use the links below to explore the 
 [[sessions/Session 31\|Session 31]] · [[sessions/Session 32\|Session 32]]
 
 <u>Meet the people who shape the tale:</u>
-
+ 
 [[factions/The Party\|The Party]]
 [[npcs/NPCS\|NPCS]]
 
