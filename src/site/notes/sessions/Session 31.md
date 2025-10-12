@@ -23,3 +23,5 @@ Overview of [[locations/buildings/Lord Frost's Residence\|Lord Frost's Residence
 ![Pasted image 20250920224936.png](/img/user/sessions/image%20files/Pasted%20image%2020250920224936.png)
  Engraving in the entrance:
  ![Pasted image 20250920225001.png](/img/user/sessions/image%20files/Pasted%20image%2020250920225001.png)
+
+Next Session: [[sessions/Session 32\|Session 32]]

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-02/"}
+{"dg-publish":true,"permalink":"/sessions/session-02/","metatags":{"og:title":"Session 02","og:description":"After fighting 2 hawks, The Party camps in the wilderness for the first time. A stranger appears to be stalking them from afar(later revealed to be a cultist). After finding their base of operations, they realize that the cult has been poisoning the water supply of a nearby settlement.  They killed most of the cultists except one who swam down the river and escaped. A magical book was found at the campsite.","og:image":""}}
 ---
+
 
 #sessions
 # Session 02
