@@ -10,7 +10,7 @@ The party finished the necromancer's crypt.
 New knowledge:
 -[[items/tome pages/glyph related/Slice Glyph\|Slice Glyph]]
 -[[creatures/Devil\|Devil]]s exist
--holy items can cure the [[Zombie Plague\|Zombie Plague]]
+-holy items can cure the [[concepts/Zombie Plague\|Zombie Plague]]
 -there was a war 10 years ago.([[The Seamer-Hart War|`¹`]])
 -not all [[creatures/Kobold\|Kobold]]s are low IQ
 
