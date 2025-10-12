@@ -7,6 +7,7 @@
 [[locations/cities and towns/Alterham\|Alterham]] related:
 - [[npcs/Alterham Related/Giant Shepherd\|Giant Shepherd]]
 - [[npcs/Alterham Related/The Veteran\|The Veteran]]
+- [[npcs/Alterham Related/The Widower Cultist\|The Widower Cultist]]
 - [[npcs/Alterham Related/Tony\|Tony]]
 - [[npcs/Alterham Related/Undead Orc Wife\|Undead Orc Wife]]
 
