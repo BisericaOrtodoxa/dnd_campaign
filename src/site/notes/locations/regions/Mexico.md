@@ -4,3 +4,5 @@
 
 #locations
 # Mexico
+
+Birthplace of [[npcs/Erry Family/Larry\|Larry]].

@@ -4,3 +4,5 @@
 
 #locations
 # Georgia
+
+Birthplace of [[npcs/Flying bastion residents/Man carry box\|Man carry box]].
