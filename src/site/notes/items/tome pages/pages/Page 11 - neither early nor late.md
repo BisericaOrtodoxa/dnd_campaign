@@ -4,6 +4,6 @@
 
 #tome_pages
 
-![[Ci=6-A7]=kATAp.jpg]]
+![page11.jpg](/img/user/items/tome%20pages/image%20files/page11.jpg)
 
 Describes pre-[[DM ONLY/events/Shattering\|¹]] 
