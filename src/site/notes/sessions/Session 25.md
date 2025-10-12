@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-25/"}
+{"dg-publish":true,"permalink":"/sessions/session-25/","metatags":{"og:title":"Session 25","og:description":"The Party heard from the sewer cult that there was a god that needed appeasement so they went to confront it in a volcano.  At the start, they went over the canyon with some rope and almost died like 3 times inside the dungeon. There was a spider that either turned invisible or walked through a different dimension.  The god was a fire elemental that we didn't even have to fight. In their search for the arcane mechanism, Emery and Leo died on the field of battle against some incredibly ferocious canyon dwellers.","og:image":""}}
 ---
 
 #sessions 

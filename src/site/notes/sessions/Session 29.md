@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-29/"}
+{"dg-publish":true,"permalink":"/sessions/session-29/","metatags":{"og:title":"Session 29","og:description":"Written by BNN with DM changes by Araki  The Party went to The Witch's house to complete the ritual to free Carl from being a familiar, but she was not there so they proceeded to jump through some hoops(beans means The Path of The Sage) and reach the designated ritual point™.  After Carl botched the ritual, the bard appeared and stole the magical crack in the space-time and and then left. Carl is no longer a familiar, but he was left in a bad state so Remy put him in a medically induced coma to recover, very gently.  On the way back Imp, after beating himself up, managed to seduce a chest into opening and giving him a true resurrection. He proceeded to revive his old friend Emery, then almost killed him, then he got saved by Gorich and Imp tried to kill him again but got put to sleep by Druid The Squirrel. After which Emery proceeded to leave with Druid. This will certainly not backfire in any way.  Gorich summoned a cute familiar fox and Remy went to a forest from imp's dark past to get himself a 'wolf' - Larry","og:image":""}}
 ---
 
 #sessions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-26/"}
+{"dg-publish":true,"permalink":"/sessions/session-26/","metatags":{"og:title":"Session 26","og:description":"- imp got 2 new party members, to replace the dead. - arena tournament was won and the rewards were distributed to available players - fireball was cast","og:image":""}}
 ---
 
 #sessions 

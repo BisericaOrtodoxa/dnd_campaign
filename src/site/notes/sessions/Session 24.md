@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-24/"}
+{"dg-publish":true,"permalink":"/sessions/session-24/","metatags":{"og:title":"Session 24","og:description":"The island flies! :D But it can't move. D: To make it move a search for an expert got started. A certain Professor Archibald, from the Magical Architecture department of The University Of Arcane Science and Applied Magics.  After meeting a familiar face, we set forth to SlumberHaven, a cozy town with a dark secret. To keep the settlement from devastation, blood sacrifices are made. Deep in the sewers diverse and surprisingly tough monsters reside, guarding the sacrifice ritual. By defeating it's guards and interrupting the ritual, Mr Archibald, Carl and That Other Guy™️ are spared from death. Also, Imp made an appointment with The SlumberHaven Sacrifice staff to replace their victim.","og:image":""}}
 ---
 
 #sessions

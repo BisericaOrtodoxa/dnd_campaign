@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-21/"}
+{"dg-publish":true,"permalink":"/sessions/session-21/","metatags":{"og:title":"Session 21","og:description":"Upon breaking free of their chains, the adventurers find themselves amidst an endless snowstorm.(around The Permafrost Region) Fresh is the snow and clean is the slate going forth. With a newly found lack of direction they set forth, for the cold does not wait. And as they wonder, encountering rough mountainside, due to a careless mistake they separate. Did to the consequences of his own actions, imp is robbed by a band of bandits. Despite the party managing to catch up and disposing of most of them.  Amidst the frost, a village lay dormant. For it's inhabitants are plagued by a painful slumber. At the center of the lake lies it's root cause. A cat(?) that seemingly is both asleep and awake at the same time, slumbering and causing the village to undergo horrific nightmares by its sheer presence.  The Party can tell that things are out of place here, unfinished.","og:image":""}}
 ---
 
 #sessions

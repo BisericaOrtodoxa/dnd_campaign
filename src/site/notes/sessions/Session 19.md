@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-19/"}
+{"dg-publish":true,"permalink":"/sessions/session-19/","metatags":{"og:title":"Session 19","og:description":"All the people in the castle were invisible due to the antics of Semearsia's Court Wizard.  -the party turned Seamersia's King into stone via The stoneskin pendant.  -prince gone to build  -The Deck of Many Things  -regret","og:image":""}}
 ---
 
 #sessions
