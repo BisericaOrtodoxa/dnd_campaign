@@ -5,3 +5,4 @@
 #locations
 # Alterham
 
+[[locations/countries/Seamersia\|Seamersia]]n town.
