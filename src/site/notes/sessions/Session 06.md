@@ -16,7 +16,7 @@ Dreamt about some sort of entity rowing a boat with them
 
 Met [[npcs/Flying bastion residents/Carl\|Carl]] and managed to cross the rocky bridge.
 
-[[npcs/Other Major NPCS/The Witch\|The Witch]] is not human, [[npcs/Flying bastion residents/Carl\|Carl]] seems scared of her.
+[[npcs/Other Major NPCS/The Witch\|The Witch]] is strange, [[npcs/Flying bastion residents/Carl\|Carl]] seems scared of her.
 
 Found [[npcs/Alterham Related/The Veteran\|The Veteran]] in a camp in the forest, along with a giant and some other humans.
 
