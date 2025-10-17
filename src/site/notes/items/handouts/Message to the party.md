@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/handouts/message-to-the-party/","metatags":{"og:title":"Message to the party","og:description":"Presumably by Seiro. Contains hidden messaging in the raw bytes of the file"}}
 ---
 
-#handouts
+#handouts #arg
 ![Pasted image 20250914130249.png](/img/user/items/image%20files/Pasted%20image%2020250914130249.png)
 Presumably by [[npcs/Other Major NPCS/Seiro\|Seiro]]. Contains hidden messaging in the raw bytes of the file. It reads as follows:
 "I cannot begin to state how important this is, what really are you, and what are you doing to us?  to all of us? focus on your past. do you really have one? did you conveniently forget? is it starting to fade it? is it clear and concise?

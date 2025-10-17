@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/tome-pages/pages/page-12-from-a-potential-future/"}
 ---
 
-#tome_pages
+#tome_pages #arg
 Note appearing to be written by imp, contains 2 layers of hidden information.
 ![[page.pdf]]
 Layer 1:
