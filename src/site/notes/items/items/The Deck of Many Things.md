@@ -20,5 +20,5 @@ A powerful [[creatures/Devil\|devil]] becomes your enemy. The [[creatures/Devil\
 <u>Throne.</u> 
 You gain proficiency and Expertise in your choice of History, Insight, Intimidation, or Persuasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.(applied)
 
-.<u> Moon</u>  
+<u> Moon</u>  
 You gain the ability to cast Wish 1d3 times.
