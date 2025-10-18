@@ -8,5 +8,6 @@
 - [[items/handouts/Journal-Day 30\|Journal-Day 30]]
 - [[items/handouts/Letter from Orin\|Letter from Orin]]
 - [[items/handouts/Message to the party\|Message to the party]]
+- [[items/handouts/The Loan Contract\|The Loan Contract]]
 
 { .block-language-dataview}

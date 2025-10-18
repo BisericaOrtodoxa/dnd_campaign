@@ -5,8 +5,9 @@
 #sessions
 # Session 27
 
+The party takes a trip to a casino,
 Gambling has been a disaster for our players finances.
-
+[[npcs/Other Major NPCS/Mr. Loan\|Mr. Loan]] is introduced and attempts to lend [[factions/The Party\|The Party]] money using [[items/handouts/The Loan Contract\|The Loan Contract]].
 Using one of the rewards for wining the tournament from [[sessions/Session 26\|session 26]], [[factions/The Party\|The Party]] tracks down [[locations/buildings/Karlov Manor\|Karlov Manor]] and retrieves [[DM ONLY/Reality Fracture\|a strange bend in reality that they decide to call "the artifact"]].
 
 Checkered constructs attempt to retrieve the [[DM ONLY/Reality Fracture\|artifact]]. The situation was defused via talking.
