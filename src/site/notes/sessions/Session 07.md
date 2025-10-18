@@ -16,7 +16,7 @@ The party asked him to examine the book[[DM ONLY/The Tome of Origin\|³]],the am
 
 They went up a cliff into a forest which was [[npcs/Erry Family/Jerry\|Jerry]] the wolf's territory.
 imp climbed a tree for 1 apple and Jerry waited for him at the bottom.
-[[players/Emery\|Emery]](bnnnz) talked to him and they managed to escape unscathed.
+[[players/Emery\|Emery]] (bnnnz) talked to him and they managed to escape unscathed.
 They went back to [[npcs/Other Major NPCS/Dwayne the Monk Johnson\|Dwayne the Monk Johnson]] and squirrel-napped him.
 
 Book pages this session: [[items/tome pages/pages/Page 04 - My dreams can be peculiar\|Page 04 - My dreams can be peculiar]]
