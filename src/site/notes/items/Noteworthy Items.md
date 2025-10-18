@@ -18,6 +18,7 @@ Noteworthy Items:
 - [[items/items/The Bag of Holding\|The Bag of Holding]]
 - [[items/items/The Deck of Many Things\|The Deck of Many Things]]
 - [[items/items/The Final Solution\|The Final Solution]]
+- [[items/items/The Obsidian Ball\|The Obsidian Ball]]
 - [[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]]
 - [[items/items/The stoneskin pendant\|The stoneskin pendant]]
 - [[items/items/Wand of random polymorph\|Wand of random polymorph]]

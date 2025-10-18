@@ -8,7 +8,8 @@
 4/20/25
 
 The party hurries to rescue [[players/Emery\|Emery]]. Which vanished due to drawing a cards from [[items/items/The Deck of Many Things\|The Deck of Many Things]].
-They also drew many many cards 
+They also drew many many cards
+
 <u>Skull. </u>
 An Avatar of Death appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another [[DM ONLY/creatures of all kinds/divinity/Avatar of Death\|Avatar of Death]]. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks.(neutralized temporarily) Fool. You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn’t count as one of your declared draws.(active)
 
