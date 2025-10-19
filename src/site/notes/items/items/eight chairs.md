@@ -5,4 +5,4 @@
 #items 
 # eight chairs
 
-They will be important later.
+They will be important later.  Reduced to 6 in[[sessions/Session 33\|Session 33]]

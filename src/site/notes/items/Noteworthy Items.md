@@ -5,6 +5,7 @@
 Noteworthy Items:
 
 - [[items/items/DOGSHIT SWORD 1\|DOGSHIT SWORD 1]]
+- [[items/items/DOGSHIT SWORD2\|DOGSHIT SWORD2]]
 - [[items/items/eight chairs\|eight chairs]]
 - [[items/items/Frostbane\|Frostbane]]
 - [[items/items/Frostweaver Amulet\|Frostweaver Amulet]]
