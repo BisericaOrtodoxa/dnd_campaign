@@ -7,4 +7,4 @@
 
 Claims it will never leave [[players/Imp\|Imp]]'s side.
 
-![Pasted image 20251019180446.png](/img/user/Pasted%20image%2020251019180446.png)
+![Pasted image 20251019180446.png](/img/user/items/image%20files/Pasted%20image%2020251019180446.png)

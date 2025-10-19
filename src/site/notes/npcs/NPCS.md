@@ -75,6 +75,7 @@ Misc:
 - [[npcs/Misc/Mr 💀\|Mr 💀]]
 - [[npcs/Misc/That Other Guy™️\|That Other Guy™️]]
 - [[npcs/Misc/The Bandit Survivor\|The Bandit Survivor]]
+- [[npcs/Misc/The Drakmor bartender\|The Drakmor bartender]]
 - [[npcs/Misc/Tortured Capture Assassin\|Tortured Capture Assassin]]
 
 { .block-language-dataview}
