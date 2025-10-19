@@ -24,7 +24,7 @@ This is the living record of our adventures. Use the links below to explore the 
 
 [[sessions/Session 26\|Session 26]] · [[sessions/Session 27\|Session 27]] · [[sessions/Session 28\|Session 28]] · [[sessions/Session 29\|Session 29]] · [[sessions/Session 30\|Session 30]]
 
-[[sessions/Session 31\|Session 31]] · [[sessions/Session 32\|Session 32]]· [[sessions/Session 33\|Session 33]]
+[[sessions/Session 31\|Session 31]] · [[sessions/Session 32\|Session 32]] · [[sessions/Session 33\|Session 33]]
 
 <u>Meet the people who shape the tale:</u>
  
