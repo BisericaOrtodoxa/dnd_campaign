@@ -5,5 +5,5 @@
 #handouts 
 # Seiro's registry page:
 
-![torn paper.png](/img/user/items/image%20files/torn%20paper.png)
+![Pasted image 20251020161119.png](/img/user/items/image%20files/Pasted%20image%2020251020161119.png)
 ![mug.png](/img/user/items/image%20files/mug.png)
