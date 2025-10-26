@@ -11,6 +11,7 @@ Noteworthy Items:
 - [[items/items/Frostweaver Amulet\|Frostweaver Amulet]]
 - [[items/items/Immovable Rod\|Immovable Rod]]
 - [[items/items/Ivory flute\|Ivory flute]]
+- [[items/items/Lichnee potion\|Lichnee potion]]
 - [[items/items/Mouse Statue\|Mouse Statue]]
 - [[items/items/Portable Gambling Machine\|Portable Gambling Machine]]
 - [[items/items/Ring of Naked Invisibility\|Ring of Naked Invisibility]]
