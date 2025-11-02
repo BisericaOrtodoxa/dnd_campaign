@@ -26,3 +26,4 @@ With the help of imp drawing his best interpretation of a belladona, the plant n
 Using 2 of the 3 kidnapped goblins, a phase spider is convinced into producing some venom and the victim's blood.
 Using the power of wealth, [[players/Imp\|Imp]] buys wyvern venom straight from the source.
 
+Next session: [[sessions/Session 35\|Session 35]]
