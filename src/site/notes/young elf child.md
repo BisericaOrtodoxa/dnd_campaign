@@ -5,4 +5,4 @@
 #NPCS
 # young elf child
 
-Seemingly killed his captors. 
+Seemingly killed his captors.
