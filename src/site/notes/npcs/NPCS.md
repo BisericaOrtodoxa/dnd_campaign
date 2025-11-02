@@ -30,10 +30,12 @@
 { .block-language-dataview}
 
 [[locations/cities and towns/Westford\|Westford]] related:
+- [[npcs/Wesford related/Crimson Fox\|Crimson Fox]]
 - [[npcs/Wesford related/Professor Archibald\|Professor Archibald]]
 - [[npcs/Wesford related/Seamersia's King\|Seamersia's King]]
 - [[npcs/Wesford related/Seamersian Architect\|Seamersian Architect]]
 - [[npcs/Wesford related/Semearsia's Court Wizard\|Semearsia's Court Wizard]]
+- [[npcs/Wesford related/The orphan infant\|The orphan infant]]
 
 { .block-language-dataview}
 
@@ -72,10 +74,12 @@ Misc:
 - [[npcs/Misc/Cultist escapee\|Cultist escapee]]
 - [[npcs/Misc/Donkey eater merchant\|Donkey eater merchant]]
 - [[npcs/Misc/ferocious canyon dwellers\|ferocious canyon dwellers]]
+- [[npcs/Misc/goblin mother\|goblin mother]]
 - [[npcs/Misc/Mr 💀\|Mr 💀]]
 - [[npcs/Misc/That Other Guy™️\|That Other Guy™️]]
 - [[npcs/Misc/The Bandit Survivor\|The Bandit Survivor]]
 - [[npcs/Misc/The Drakmor bartender\|The Drakmor bartender]]
 - [[npcs/Misc/Tortured Capture Assassin\|Tortured Capture Assassin]]
+- [[npcs/Misc/young elf child\|young elf child]]
 
 { .block-language-dataview}
