@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-35/","metatags":{"og:title":"Session 35","og:description":"Mother duck, 'Can i fuck?' - IMP,  'Woof' - Emery","og:image":""}}
 ---
 
+#sessions 
 # Session 35
 
 After the wyvern encounter, Imp and Melon took time to pray. Imp received no particular blessing, while Melon gained some money(just enough to gamble). Imp then played the lyre for a while before investigating the camp’s tents, where they discovered a piece of azurite. They also examined the infamous [[items/items/DOGSHIT SWORD2\|DOGSHIT SWORD2]].
@@ -31,3 +32,5 @@ The party finally arrived in [[locations/cities and towns/Drakmor\|Drakmor]], le
 ![Pasted image 20251102162615.png](/img/user/sessions/image%20files/Pasted%20image%2020251102162615.png)
 
 The party returned to the bastion, where [[npcs/Flying bastion residents/Carl\|Karl]] was seen grafting a tree. After visiting the [[locations/buildings/The TeaShop\|teahouse]], he somehow came into possession of a branch bearing one  [[items/Azzy’s fruit\|Azzy’s fruit]]. Concerned by his behavior, [[players/Remy\|Remy]] decided that Karl should probably see a psychologist.
+
+Next session: [[sessions/Session 36\|Session 36]]
