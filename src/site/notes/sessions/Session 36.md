@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-36/","metatags":{"og:title":"Session 36","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/session-36/","metatags":{"og:title":"Session 36","og:description":"The discovery of the flying islands inhabited by monks. There was no goal to achieve here. Almost as if it was missing.","og:image":""}}
 ---
 
 # Session 36
 #sessions 
 
 The party starts the day realizing  they miss 200 gold from their treasury. While exploring, they find carl, who apparently built a mini beach while they've been gone, laying on a beach lounger next to slime woman. Carl mentions that there is a portal.
-[[players/Imp\|Imp]] does a callback to [[sessions/Session 01\|Session 01]] and tried to enter this portal but fails.
+[[players/Imp\|Imp]] does a callback to [[sessions/Session 01\|Session 01]] and tries to enter this portal but fails.
 Using a more measured and thoughtful approach, [[players/Remy\|Remy]] managed to peer trough and observe the other end of this portal. Among other things, some of the boxes stored in the large room on the other side have "Tapajós" burned into them. 
 The party soon realises that [[players/Imp\|Imp]] has a note stuck to him after his failed portal attempt. It's not clear whether the note was meant for the party or was pulled from somewhere on the other side.
 
@@ -32,7 +32,7 @@ While trying to go to the first island, [[players/Remy\|Remy]] nearly falls off 
 [[players/Imp\|Imp]] manages to build the bridge and with a skip and a hop he manages to pass through.
 The construction is questionable however so demon carries the rest of them all and gets through.
 One leopard hates imp so much he leaves mid conversation. That leopard is still [[players/Emery\|Emery]].
-A manticore and a chimera that guard the biggest island in there, so jerry howls which scares them away.
+A manticore and a chimera that guard the biggest island in there, so [[npcs/Erry Family/Larry\|Larry]] howls which scares them away.
 Upon arriving as a bridge made out of floating stones, [[factions/The Party\|The Party]] used boards to cross most of them. It's of note however that they pushed imp off risking his ultimate demise but thankfully it was part of the puzzle.
 [[players/Remy\|Remy]] manages to random polymorph into a baby.
 Passing through the forest, they find a monk which introduces them to the sky isles.
