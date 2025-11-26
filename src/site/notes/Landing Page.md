@@ -26,6 +26,8 @@ This is the living record of our adventures. Use the links below to explore the 
 
 [[sessions/Session 31\|Session 31]] · [[sessions/Session 32\|Session 32]] · [[sessions/Session 33\|Session 33]] · [[sessions/Session 34\|Session 34]] · [[sessions/Session 35\|Session 35]]
 
+ [[sessions/Session 36\|Session 36]] · [[sessions/Session 38\|Session 38]] 
+
 <u>Meet the people who shape the tale:</u>
  
 [[factions/The Party\|The Party]]
