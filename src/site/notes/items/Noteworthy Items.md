@@ -24,5 +24,6 @@ Noteworthy Items:
 - [[items/items/The Rainy Devil Skull\|The Rainy Devil Skull]]
 - [[items/items/The stoneskin pendant\|The stoneskin pendant]]
 - [[items/items/Wand of random polymorph\|Wand of random polymorph]]
+- [[items/items/Wizard Hat of Idiot Strength\|Wizard Hat of Idiot Strength]]
 
 { .block-language-dataview}
