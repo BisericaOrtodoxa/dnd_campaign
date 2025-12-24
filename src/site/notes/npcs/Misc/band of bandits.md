@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/band-of-bandits/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/band of bandits/"}
 ---
 
 #NPCS #dead

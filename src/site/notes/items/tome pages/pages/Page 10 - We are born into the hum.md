@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-10-we-are-born-into-the-hum/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 10 - We are born into the hum/"}
 ---
 
 #tome_pages

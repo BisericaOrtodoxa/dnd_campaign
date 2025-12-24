@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/wesford-related/semearsia-s-court-wizard/"}
+{"dg-publish":true,"permalink":"/npcs/Wesford related/Semearsia's Court Wizard/"}
 ---
 
 #NPCS #neutral

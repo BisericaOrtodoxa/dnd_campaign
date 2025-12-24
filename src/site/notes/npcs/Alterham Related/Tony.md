@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/alterham-related/tony/"}
+{"dg-publish":true,"permalink":"/npcs/Alterham Related/Tony/"}
 ---
 
 #NPCS #neutral

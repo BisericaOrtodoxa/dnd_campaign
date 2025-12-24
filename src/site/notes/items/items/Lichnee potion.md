@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/lichnee-potion/","metatags":{"og:title":"Lichnee potion","og:description":"A lichnee potion, also known as a potion of transformation, is a highly poisonous mixture that has to be used as part of a ritual to become a lich.  When properly prepared, the mixture has a sparkling black liquid with a bluish glow.","og:image":""}}
+{"dg-publish":true,"permalink":"/items/items/Lichnee potion/","metatags":{"og:title":"Lichnee potion","og:description":"A lichnee potion, also known as a potion of transformation, is a highly poisonous mixture that has to be used as part of a ritual to become a lich.  When properly prepared, the mixture has a sparkling black liquid with a bluish glow.","og:image":""}}
 ---
 
 #items 

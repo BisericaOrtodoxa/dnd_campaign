@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/journal-day-241/"}
+{"dg-publish":true,"permalink":"/items/handouts/Journal-Day 241/"}
 ---
 
 #items #handouts

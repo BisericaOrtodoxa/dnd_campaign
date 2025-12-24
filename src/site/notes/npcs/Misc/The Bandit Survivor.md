@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/the-bandit-survivor/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/The Bandit Survivor/"}
 ---
 
 #NPCS 

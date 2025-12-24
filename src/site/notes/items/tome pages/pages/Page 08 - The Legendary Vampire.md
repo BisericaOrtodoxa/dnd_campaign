@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-08-the-legendary-vampire/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 08 - The Legendary Vampire/"}
 ---
 
 #tome_pages

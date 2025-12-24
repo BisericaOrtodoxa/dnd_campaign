@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/halt-glyph/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Halt Glyph/"}
 ---
 
 #magic_glyphs #tome_pages

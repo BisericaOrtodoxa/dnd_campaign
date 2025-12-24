@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/flying-bastion-residents/slime-woman/"}
+{"dg-publish":true,"permalink":"/npcs/Flying bastion residents/Slime Woman/"}
 ---
 
 #NPCS #neutral #bastion_staff

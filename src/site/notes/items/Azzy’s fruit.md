@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/azzy-s-fruit/","metatags":{"og:title":"Azzy’s fruit","og:description":"Otherworldly fruit. Tastes like the day you first met your best friend. Tart, sticky and high in caffeine. !Pasted image 20251102163123.png","og:image":""}}
+{"dg-publish":true,"permalink":"/items/Azzy’s fruit/","metatags":{"og:title":"Azzy’s fruit","og:description":"Otherworldly fruit. Tastes like the day you first met your best friend. Tart, sticky and high in caffeine. !Pasted image 20251102163123.png","og:image":""}}
 ---
 
 #items

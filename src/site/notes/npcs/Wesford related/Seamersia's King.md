@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/wesford-related/seamersia-s-king/"}
+{"dg-publish":true,"permalink":"/npcs/Wesford related/Seamersia's King/"}
 ---
 
 #NPCS #dead #not_the_partys_fault

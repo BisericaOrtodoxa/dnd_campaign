@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-06-i-won-t-be-writing-here-anymore/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 06 - I won't be writing here anymore/"}
 ---
 
 #tome_pages

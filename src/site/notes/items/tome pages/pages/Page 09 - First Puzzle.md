@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-09-first-puzzle/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 09 - First Puzzle/"}
 ---
 
 #tome_pages

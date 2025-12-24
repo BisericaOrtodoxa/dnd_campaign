@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/rat-brothers/rathony/"}
+{"dg-publish":true,"permalink":"/npcs/Rat Brothers/Rathony/"}
 ---
 
 #NPCS #dead

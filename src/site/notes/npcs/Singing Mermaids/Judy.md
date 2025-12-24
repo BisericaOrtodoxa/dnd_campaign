@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/singing-mermaids/judy/"}
+{"dg-publish":true,"permalink":"/npcs/Singing Mermaids/Judy/"}
 ---
 
 #NPCS #friendly

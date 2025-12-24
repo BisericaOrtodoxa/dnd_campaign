@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/the-slumber-haven-sacrifice/","metatags":{"og:title":"The SlumberHaven Sacrifice","og:description":"Event that takes place every generation in SlumberHaven to appease the volcano."}}
+{"dg-publish":true,"permalink":"/events/The SlumberHaven Sacrifice/","metatags":{"og:title":"The SlumberHaven Sacrifice","og:description":"Event that takes place every generation in SlumberHaven to appease the volcano."}}
 ---
 
 #events 

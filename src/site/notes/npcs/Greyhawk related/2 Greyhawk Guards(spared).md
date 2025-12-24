@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/greyhawk-related/2-greyhawk-guards-spared/"}
+{"dg-publish":true,"permalink":"/npcs/Greyhawk related/2 Greyhawk Guards(spared)/"}
 ---
 
 #NPCS #friendly

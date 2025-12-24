@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/regions/mexico/","metatags":{"og:title":"Mexico","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/locations/regions/Mexico/","metatags":{"og:title":"Mexico","og:description":"","og:image":""}}
 ---
 
 #locations

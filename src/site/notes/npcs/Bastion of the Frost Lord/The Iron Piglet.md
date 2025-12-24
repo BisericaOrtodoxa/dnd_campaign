@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/bastion-of-the-frost-lord/the-iron-piglet/"}
+{"dg-publish":true,"permalink":"/npcs/Bastion of the Frost Lord/The Iron Piglet/"}
 ---
 
 #NPCS #constructs

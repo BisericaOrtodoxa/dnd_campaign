@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/soul-glyph/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Soul Glyph/"}
 ---
 
 #tome_pages #magic_glyphs

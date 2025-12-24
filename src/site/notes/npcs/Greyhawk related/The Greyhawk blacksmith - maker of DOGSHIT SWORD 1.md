@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/greyhawk-related/the-greyhawk-blacksmith-maker-of-dogshit-sword-1/"}
+{"dg-publish":true,"permalink":"/npcs/Greyhawk related/The Greyhawk blacksmith - maker of DOGSHIT SWORD 1/"}
 ---
 
 #NPCS #neutral

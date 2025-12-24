@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-08/","metatags":{"og:title":"Session 08","og:description":"On their way to the capital(Westford), the party came across a city(The Free City of Greyhawk(tuah)). In an act of pure chaos, they decided to incite The Greyhawk Insurrection.  Through a series of inspiring speeches delivered by Emery and imp going 😐 🫥 the people grow restless.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 08/","metatags":{"og:title":"Session 08","og:description":"On their way to the capital(Westford), the party came across a city(The Free City of Greyhawk(tuah)). In an act of pure chaos, they decided to incite The Greyhawk Insurrection.  Through a series of inspiring speeches delivered by Emery and imp going 😐 🫥 the people grow restless.","og:image":""}}
 ---
 
 #sessions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/ups-and-downs/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Ups and Downs/"}
 ---
 
 #tome_pages

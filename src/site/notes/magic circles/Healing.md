@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic-circles/healing/","metatags":{"og:title":"Healing","og:description":"Shows up as soon as Session 01"}}
+{"dg-publish":true,"permalink":"/magic circles/Healing/","metatags":{"og:title":"Healing","og:description":"Shows up as soon as Session 01"}}
 ---
 
 #magic_circles

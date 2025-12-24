@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities-and-towns/drakmor/","metatags":{"og:title":"Drakmor","og:description":"Seamersian city lead by a gigantic dragon who views the entire place as a horde.","og:image":"https://dndprivate.vercel.app/img/optimized/UfzFaLhUAo-700.webp"}}
+{"dg-publish":true,"permalink":"/locations/cities and towns/Drakmor/","metatags":{"og:title":"Drakmor","og:description":"Seamersian city lead by a gigantic dragon who views the entire place as a horde.","og:image":"https://dndprivate.vercel.app/img/optimized/UfzFaLhUAo-700.webp"}}
 ---
 
 #locations

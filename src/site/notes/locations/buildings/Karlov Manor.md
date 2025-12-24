@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/buildings/karlov-manor/","metatags":{"og:title":"Karlov Manor","og:description":""}}
+{"dg-publish":true,"permalink":"/locations/buildings/Karlov Manor/","metatags":{"og:title":"Karlov Manor","og:description":""}}
 ---
 
 #locations 

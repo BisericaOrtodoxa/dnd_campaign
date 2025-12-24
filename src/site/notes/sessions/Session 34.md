@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-34/","metatags":{"og:title":"Session 34","og:description":"Imp and the gang kidnap a child.","og:image":"https://dndprivate.vercel.app/img/user/sessions/image%20files/image-34.png"}}
+{"dg-publish":true,"permalink":"/sessions/Session 34/","metatags":{"og:title":"Session 34","og:description":"Imp and the gang kidnap a child.","og:image":"https://dndprivate.vercel.app/img/user/sessions/image%20files/image-34.png"}}
 ---
 
 # Session 34

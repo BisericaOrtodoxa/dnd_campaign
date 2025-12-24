@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/bastion-of-the-frost-lord/orin-farlight/"}
+{"dg-publish":true,"permalink":"/npcs/Bastion of the Frost Lord/Orin Farlight/"}
 ---
 
 #NPCS

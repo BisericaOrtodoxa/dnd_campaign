@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/buildings/the-university-of-arcane-science-and-applied-magics/","metatags":{"og:title":"The University Of Arcane Science and Applied Magics","og:description":"Arcane College located in Westford."}}
+{"dg-publish":true,"permalink":"/locations/buildings/The University Of Arcane Science and Applied Magics/","metatags":{"og:title":"The University Of Arcane Science and Applied Magics","og:description":"Arcane College located in Westford."}}
 ---
 
 #locations

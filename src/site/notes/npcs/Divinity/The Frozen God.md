@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/divinity/the-frozen-god/"}
+{"dg-publish":true,"permalink":"/npcs/Divinity/The Frozen God/"}
 ---
 
 #gods

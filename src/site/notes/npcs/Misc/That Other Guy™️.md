@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/that-other-guy/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/That Other Guy™️/"}
 ---
 
 #NPCS #neutral

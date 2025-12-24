@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-11-neither-early-nor-late/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 11 - neither early nor late/"}
 ---
 
 #tome_pages

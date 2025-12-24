@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/letter-from-orin/"}
+{"dg-publish":true,"permalink":"/items/handouts/Letter from Orin/"}
 ---
 
 #handouts

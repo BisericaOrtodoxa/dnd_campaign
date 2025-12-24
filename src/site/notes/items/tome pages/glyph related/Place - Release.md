@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/place-release/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Place - Release/"}
 ---
 
 #magic_glyphs

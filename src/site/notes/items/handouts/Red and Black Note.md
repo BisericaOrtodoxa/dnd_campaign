@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/red-and-black-note/","metatags":{"og:title":"Red and Black Note","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/items/handouts/Red and Black Note/","metatags":{"og:title":"Red and Black Note","og:description":"","og:image":""}}
 ---
 
 #items 

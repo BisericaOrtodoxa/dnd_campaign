@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/notes-from-another-version/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Notes from Another Version/"}
 ---
 
 #tome_pages

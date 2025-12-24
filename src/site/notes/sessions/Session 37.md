@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-37/","metatags":{"og:title":"Session 37","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 37/","metatags":{"og:title":"Session 37","og:description":"","og:image":""}}
 ---
 
 

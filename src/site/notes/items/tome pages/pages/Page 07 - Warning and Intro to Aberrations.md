@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-07-warning-and-intro-to-aberrations/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 07 - Warning and Intro to Aberrations/"}
 ---
 
 #tome_pages

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/regions/georgia/","metatags":{"og:title":"Georgia","og:description":""}}
+{"dg-publish":true,"permalink":"/locations/regions/Georgia/","metatags":{"og:title":"Georgia","og:description":""}}
 ---
 
 #locations

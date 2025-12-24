@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/alterham-related/the-veteran/","metatags":{"og:title":"The Veteran","og:description":"Retired war veteran. Strong despite his age.","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Alterham Related/The Veteran/","metatags":{"og:title":"The Veteran","og:description":"Retired war veteran. Strong despite his age.","og:image":""}}
 ---
 
 #NPCS #neutral

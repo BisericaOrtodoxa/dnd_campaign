@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/eight-chairs/","metatags":{"og:title":"eight chairs","og:description":"They will be important later.","og:image":""}}
+{"dg-publish":true,"permalink":"/items/items/eight chairs/","metatags":{"og:title":"eight chairs","og:description":"They will be important later.","og:image":""}}
 ---
 
 #items 

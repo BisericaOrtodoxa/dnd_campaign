@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/bakery-customer/","metatags":{"og:title":"bakery customer","og:description":"Encountered in Drakmor. Informs the party about The Registrar in exchange for 1 gold.","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Misc/bakery customer/","metatags":{"og:title":"bakery customer","og:description":"Encountered in Drakmor. Informs the party about The Registrar in exchange for 1 gold.","og:image":""}}
 ---
 
 #NPCS 

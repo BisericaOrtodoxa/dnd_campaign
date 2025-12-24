@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/message-to-the-party/","metatags":{"og:title":"Message to the party","og:description":"Presumably by Seiro. Contains hidden messaging in the raw bytes of the file"}}
+{"dg-publish":true,"permalink":"/items/handouts/Message to the party/","metatags":{"og:title":"Message to the party","og:description":"Presumably by Seiro. Contains hidden messaging in the raw bytes of the file"}}
 ---
 
 #handouts #arg

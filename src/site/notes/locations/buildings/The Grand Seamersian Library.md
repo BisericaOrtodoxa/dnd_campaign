@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/buildings/the-grand-seamersian-library/","metatags":{"og:title":"The Grand Seamersian Library","og:description":"Library built inside of a great tower. Host a wealth of knowledge.","og:image":""}}
+{"dg-publish":true,"permalink":"/locations/buildings/The Grand Seamersian Library/","metatags":{"og:title":"The Grand Seamersian Library","og:description":"Library built inside of a great tower. Host a wealth of knowledge.","og:image":""}}
 ---
 
 #locations 

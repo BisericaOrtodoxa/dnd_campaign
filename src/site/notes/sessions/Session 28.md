@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-28/","metatags":{"og:title":"Session 28","og:description":"The machines lied. They attempted to take the party into a controlled environment and ambush them. They failed. Gorich spotted Seiro watching from afar.  After playing the song of their life, some of the machines were eliminated by the localized eldritch darkness you call cat. The mobile bastion takes pause to resupply. One of the guards nearly died.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 28/","metatags":{"og:title":"Session 28","og:description":"The machines lied. They attempted to take the party into a controlled environment and ambush them. They failed. Gorich spotted Seiro watching from afar.  After playing the song of their life, some of the machines were eliminated by the localized eldritch darkness you call cat. The mobile bastion takes pause to resupply. One of the guards nearly died.","og:image":""}}
 ---
 
 #sessions

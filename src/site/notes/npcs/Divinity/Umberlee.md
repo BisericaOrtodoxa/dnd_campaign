@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/divinity/umberlee/"}
+{"dg-publish":true,"permalink":"/npcs/Divinity/Umberlee/"}
 ---
 
 #gods #NPCS

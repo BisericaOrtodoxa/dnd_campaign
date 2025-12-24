@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/villages/slumbering-village/","metatags":{"og:title":"Slumbering Village","og:description":"Located in The Permafrost Region."}}
+{"dg-publish":true,"permalink":"/locations/villages/Slumbering Village/","metatags":{"og:title":"Slumbering Village","og:description":"Located in The Permafrost Region."}}
 ---
 
 #locations 

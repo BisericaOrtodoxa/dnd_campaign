@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/buildings/lord-frost-s-residence/","metatags":{"og:title":"Lord Frost's Residence","og:description":"Home of Lord Frost."}}
+{"dg-publish":true,"permalink":"/locations/buildings/Lord Frost's Residence/","metatags":{"og:title":"Lord Frost's Residence","og:description":"Home of Lord Frost."}}
 ---
 
 #locations #building

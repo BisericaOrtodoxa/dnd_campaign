@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/buildings/the-flying-bastion/","metatags":{"og:title":"The Flying Bastion","og:description":"Movable airborne bastion. Home of The Party."}}
+{"dg-publish":true,"permalink":"/locations/buildings/The Flying Bastion/","metatags":{"og:title":"The Flying Bastion","og:description":"Movable airborne bastion. Home of The Party."}}
 ---
 
 #locations 

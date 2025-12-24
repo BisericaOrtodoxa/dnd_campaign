@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-05-its-been-a-while-since-i-wrote-here/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 05 - Its been a while since I wrote here.../"}
 ---
 
 #tome_pages 

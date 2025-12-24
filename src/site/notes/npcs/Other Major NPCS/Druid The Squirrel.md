@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/other-major-npcs/druid-the-squirrel/"}
+{"dg-publish":true,"permalink":"/npcs/Other Major NPCS/Druid The Squirrel/"}
 ---
 
 #NPCS #friendly

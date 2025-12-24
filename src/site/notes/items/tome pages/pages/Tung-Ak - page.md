@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/tung-ak-page/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Tung-Ak - page/"}
 ---
 
 #tome_pages

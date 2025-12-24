@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/noteworthy-items/"}
+{"dg-publish":true,"permalink":"/items/Noteworthy Items/"}
 ---
 
 Noteworthy Items:

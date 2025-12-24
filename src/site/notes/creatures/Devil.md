@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creatures/devil/","metatags":{"og:title":"Devil","og:description":""}}
+{"dg-publish":true,"permalink":"/creatures/Devil/","metatags":{"og:title":"Devil","og:description":""}}
 ---
 
 #creature_type #known

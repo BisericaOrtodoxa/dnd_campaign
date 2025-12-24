@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/flying-bastion-residents/carl/"}
+{"dg-publish":true,"permalink":"/npcs/Flying bastion residents/Carl/"}
 ---
 
 #NPCS #friendly

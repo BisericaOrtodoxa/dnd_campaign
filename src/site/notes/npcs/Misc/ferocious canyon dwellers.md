@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/ferocious-canyon-dwellers/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/ferocious canyon dwellers/"}
 ---
 
 #dead #NPCS

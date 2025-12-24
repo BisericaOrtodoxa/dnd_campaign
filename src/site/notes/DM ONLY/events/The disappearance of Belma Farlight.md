@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dm-only/events/the-disappearance-of-belma-farlight/"}
+{"dg-publish":true,"permalink":"/DM ONLY/events/The disappearance of Belma Farlight/"}
 ---
 
 #events

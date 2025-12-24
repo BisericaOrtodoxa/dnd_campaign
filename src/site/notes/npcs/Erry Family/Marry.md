@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/erry-family/marry/"}
+{"dg-publish":true,"permalink":"/npcs/Erry Family/Marry/"}
 ---
 
 #NPCS 

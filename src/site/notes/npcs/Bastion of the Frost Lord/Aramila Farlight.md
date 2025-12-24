@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/bastion-of-the-frost-lord/aramila-farlight/"}
+{"dg-publish":true,"permalink":"/npcs/Bastion of the Frost Lord/Aramila Farlight/"}
 ---
 
 #NPCS #neutral

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/spin-glyph/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Spin Glyph/"}
 ---
 
 #magic_glyphs

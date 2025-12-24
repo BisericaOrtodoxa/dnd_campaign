@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-32/","metatags":{"og:title":"Session 32","og:description":"After leveling up to Level 7, the party returned to The Witch's house, where Larry picked up the scent of the bard. Their journey soon led them to the city of Drakmor. Trouble began at the city gates, where the party discovered the long citizenship process required to enter. Emery stole the papers of an immigrant to gain entry then proceeded to sneak the remaining members with a bag of holding. What followed was the bombing of a homeless shelter, then the “heroic” aid in damage control to earn favor and access to the inner city.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 32/","metatags":{"og:title":"Session 32","og:description":"After leveling up to Level 7, the party returned to The Witch's house, where Larry picked up the scent of the bard. Their journey soon led them to the city of Drakmor. Trouble began at the city gates, where the party discovered the long citizenship process required to enter. Emery stole the papers of an immigrant to gain entry then proceeded to sneak the remaining members with a bag of holding. What followed was the bombing of a homeless shelter, then the “heroic” aid in damage control to earn favor and access to the inner city.","og:image":""}}
 ---
 
 #sessions 

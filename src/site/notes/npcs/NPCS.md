@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/npcs/"}
+{"dg-publish":true,"permalink":"/npcs/NPCS/"}
 ---
 
 # NPCS:
@@ -74,6 +74,7 @@ Misc:
 - [[npcs/Misc/Cultist escapee\|Cultist escapee]]
 - [[npcs/Misc/Donkey eater merchant\|Donkey eater merchant]]
 - [[npcs/Misc/ferocious canyon dwellers\|ferocious canyon dwellers]]
+- [[npcs/Misc/Gilgamesh\|Gilgamesh]]
 - [[npcs/Misc/goblin mother\|goblin mother]]
 - [[npcs/Misc/Mr 💀\|Mr 💀]]
 - [[npcs/Misc/That Other Guy™️\|That Other Guy™️]]

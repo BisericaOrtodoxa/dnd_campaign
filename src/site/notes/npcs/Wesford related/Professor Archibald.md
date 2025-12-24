@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/wesford-related/professor-archibald/"}
+{"dg-publish":true,"permalink":"/npcs/Wesford related/Professor Archibald/"}
 ---
 
 #NPCS #neutral

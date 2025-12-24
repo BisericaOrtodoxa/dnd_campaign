@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-03-the-frostbound-communion/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 03 -The Frostbound communion/"}
 ---
 
 #tome_pages 

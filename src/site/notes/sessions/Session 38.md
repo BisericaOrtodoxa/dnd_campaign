@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-38/","metatags":{"og:title":"Session 38","og:description":"The Crew journeys through a series of chaotic, reality-bending realms filled with puzzles, strange figures, and dimensional anomalies before ultimately reaching the Flying Bastion in utter confusion.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 38/","metatags":{"og:title":"Session 38","og:description":"The Crew journeys through a series of chaotic, reality-bending realms filled with puzzles, strange figures, and dimensional anomalies before ultimately reaching the Flying Bastion in utter confusion.","og:image":""}}
 ---
 
 # Session 38
@@ -21,15 +21,15 @@ __Unknown throne room__
 
 The Crew ends up in a fancy corridor in front of a door. The corridor loops, looking right shows the corridor from the left and vice versa. Imp peeks through the door's keyhole and claims he sees a throne room. Imp enters the throne room.  
     
-A figure stands on the other side of the room, next to a window letting lots of sun through. The person begins a monologue about the end of an adventure and the party's incoming death. He then realities The Crew is the wrong party. The Crew and the guy, [[npcs/Gilgamesh\|Gilgamesh]], discuss the situation. They come to the conclusion The Crew's in a different world. [[npcs/Gilgamesh\|Gilgamesh]] and The Crew end up confused on how to exit. The Crew moves to a 'land of riches'.
+A figure stands on the other side of the room, next to a window letting lots of sun through. The person begins a monologue about the end of an adventure and the party's incoming death. He then realities The Crew is the wrong party. The Crew and the guy, [[npcs/Misc/Gilgamesh\|Gilgamesh]], discuss the situation. They come to the conclusion The Crew's in a different world. [[npcs/Misc/Gilgamesh\|Gilgamesh]] and The Crew end up confused on how to exit. The Crew moves to a 'land of riches'.
 
 __Land of Riches__
 
-HE UNIVERSE GAINS A NEW DIMENSION. [[players/Gorich\|Gorich]]'s fox becomes three dimensional and ends up being really ugly. The Crew attempts to figure out which door is the real one. The Crew convinces a kobold to go through the 'safe' (left) door. [[players/Imp\|Imp]] goes through the right door and ends up falling 30 feet from the sky. [[players/Remy\|Remy]] uses a ring of breeze to force Imp to fall into the water. [[players/Imp\|Imp]] has to pray then climbs out. [[players/Imp\|Imp]] struggles with a 3rd dimension. The Crew begins to guess which door is safe. [[players/Imp\|Imp]] fails miserably. [[players/Imp\|Imp]] jumps into the endless seas, then climbs back up. He continues failing miserably. Imp finally manages to get through the correct door.
+THE UNIVERSE GAINS A NEW DIMENSION. [[players/Gorich\|Gorich]]'s fox becomes three dimensional and ends up being really ugly. The Crew attempts to figure out which door is the real one. The Crew convinces a kobold to go through the 'safe' (left) door. [[players/Imp\|Imp]] goes through the right door and ends up falling 30 feet from the sky. [[players/Remy\|Remy]] uses a ring of breeze to force Imp to fall into the water. [[players/Imp\|Imp]] has to pray then climbs out. [[players/Imp\|Imp]] struggles with a 3rd dimension. The Crew begins to guess which door is safe. [[players/Imp\|Imp]] fails miserably. [[players/Imp\|Imp]] jumps into the endless seas, then climbs back up. He continues failing miserably. Imp finally manages to get through the correct door.
 
 __Floating islands__
 
--The Crew ends up on a floating island. The Crew discovers a rotating cow. [[players/Emery\|Emery]] rides the cow. ([[players/Imp\|Imp]] throws a tantrum). The Crew struggles with the concept of a 3rd dimension. [[players/Imp\|Imp]] reads the runes on a huge stone - "This is where the lost gather". The Crew continues on toward the bard, [[npcs/Other Major NPCS/Seiro\|Seiro]].
+The Crew ends up on a floating island. The Crew discovers a rotating cow. [[players/Emery\|Emery]] rides the cow. ([[players/Imp\|Imp]] throws a tantrum). The Crew struggles with the concept of a 3rd dimension. [[players/Imp\|Imp]] reads the runes on a huge stone - "This is where the lost gather". The Crew continues on toward the bard, [[npcs/Other Major NPCS/Seiro\|Seiro]].
 
 The Crew appears inside an eastern home. The Crew proceeds to leave.
 
@@ -39,3 +39,5 @@ The Crew moves to a room with six statues, with buttons on each of them. Each bu
 __[[locations/buildings/The Flying Bastion\|The Flying Bastion]]__
 
 The Crew is moved to the bastion. The 3rd Dimension dissapears. The Crew is perplexed upon meeting CKarl, who's playing a piano and is unaware of the situation. The Crew calls it a day.
+
+Next session: [[sessions/Session 39\|Session 39]]

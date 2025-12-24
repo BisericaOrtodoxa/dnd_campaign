@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/other-major-npcs/the-witch/","metatags":{"og:title":"The Witch","og:description":"Witch situated just outside Alterham. Proved to posses powerful magics.","og:image":"https://dndprivate.vercel.app/img/optimized/3YKk2F-3o0-584.webp"}}
+{"dg-publish":true,"permalink":"/npcs/Other Major NPCS/The Witch/","metatags":{"og:title":"The Witch","og:description":"Witch situated just outside Alterham. Proved to posses powerful magics.","og:image":"https://dndprivate.vercel.app/img/optimized/3YKk2F-3o0-584.webp"}}
 ---
 
 #NPCS

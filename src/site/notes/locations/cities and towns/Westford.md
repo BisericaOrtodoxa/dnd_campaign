@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities-and-towns/westford/","metatags":{"og:title":"Westford","og:description":"Capital of Seamersia"}}
+{"dg-publish":true,"permalink":"/locations/cities and towns/Westford/","metatags":{"og:title":"Westford","og:description":"Capital of Seamersia"}}
 ---
 
 #locations 

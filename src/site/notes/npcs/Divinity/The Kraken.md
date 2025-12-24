@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/divinity/the-kraken/"}
+{"dg-publish":true,"permalink":"/npcs/Divinity/The Kraken/"}
 ---
 
 #NPCS #lesser-gods

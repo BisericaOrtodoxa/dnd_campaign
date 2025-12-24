@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-27/","metatags":{"og:title":"Session 27","og:description":"Gambling has been a disaster for our players finances.  Using one of the rewards for wining the tournament from session 26, The Party tracks down Karlov Manor and retrieves a strange bend in reality that they decide to call 'the artifact'.  Checkered constructs attempt to retrieve the artifact. The situation was defused via talking. Carl's mission was put on hold to see what the constructs want with the artifact.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 27/","metatags":{"og:title":"Session 27","og:description":"Gambling has been a disaster for our players finances.  Using one of the rewards for wining the tournament from session 26, The Party tracks down Karlov Manor and retrieves a strange bend in reality that they decide to call 'the artifact'.  Checkered constructs attempt to retrieve the artifact. The situation was defused via talking. Carl's mission was put on hold to see what the constructs want with the artifact.","og:image":""}}
 ---
 
 #sessions

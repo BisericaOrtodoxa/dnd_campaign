@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-04-my-dreams-can-be-peculiar/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 04 - My dreams can be peculiar/"}
 ---
 
 #tome_pages

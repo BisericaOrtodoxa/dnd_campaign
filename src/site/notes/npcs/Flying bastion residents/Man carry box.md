@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/flying-bastion-residents/man-carry-box/"}
+{"dg-publish":true,"permalink":"/npcs/Flying bastion residents/Man carry box/"}
 ---
 
 #NPCS #bastion_staff

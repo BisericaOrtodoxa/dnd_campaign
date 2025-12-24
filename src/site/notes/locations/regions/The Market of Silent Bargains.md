@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/regions/the-market-of-silent-bargains/","metatags":{"og:title":"The Market of Silent Bargains","og:description":"Situated at the very edge of conscious perception, this market sold The Deck of Many Things to The Party. Undeneath it lied a water temple housing a Well of souls."}}
+{"dg-publish":true,"permalink":"/locations/regions/The Market of Silent Bargains/","metatags":{"og:title":"The Market of Silent Bargains","og:description":"Situated at the very edge of conscious perception, this market sold The Deck of Many Things to The Party. Undeneath it lied a water temple housing a Well of souls."}}
 ---
 
 #locations

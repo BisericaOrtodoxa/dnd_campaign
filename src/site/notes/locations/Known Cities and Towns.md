@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/known-cities-and-towns/"}
+{"dg-publish":true,"permalink":"/locations/Known Cities and Towns/"}
 ---
 
 # Known Cities and Towns:

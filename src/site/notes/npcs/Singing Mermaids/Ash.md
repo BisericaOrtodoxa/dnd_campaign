@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/singing-mermaids/ash/"}
+{"dg-publish":true,"permalink":"/npcs/Singing Mermaids/Ash/"}
 ---
 
 #NPCS #friendly

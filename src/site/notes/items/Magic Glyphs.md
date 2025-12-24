@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/magic-glyphs/"}
+{"dg-publish":true,"permalink":"/items/Magic Glyphs/"}
 ---
 
 Magic Glyphs:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/ivory-flute/","metatags":{"og:title":"ivory flute"}}
+{"dg-publish":true,"permalink":"/items/items/Ivory flute/","metatags":{"og:title":"ivory flute"}}
 ---
 
 #items

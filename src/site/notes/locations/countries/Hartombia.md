@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/countries/hartombia/","metatags":{"og:title":"Hartombia","og:description":""}}
+{"dg-publish":true,"permalink":"/locations/countries/Hartombia/","metatags":{"og:title":"Hartombia","og:description":""}}
 ---
 
 #locations #countries

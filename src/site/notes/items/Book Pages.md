@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/book-pages/"}
+{"dg-publish":true,"permalink":"/items/Book Pages/"}
 ---
 
 Book Pages: 

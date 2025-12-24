@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-13-the-folly-of-man/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 13 - The Folly of Man/"}
 ---
 
 #tome_pages

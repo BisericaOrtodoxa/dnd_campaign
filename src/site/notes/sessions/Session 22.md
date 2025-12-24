@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-22/","metatags":{"og:title":"Session 22","og:description":"Melon quits as a DM after doing an underwhelming session. summary:  💀 for about ~1-1.3 hours Mr 💀 was also somehow as socially awkward as imp","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 22/","metatags":{"og:title":"Session 22","og:description":"Melon quits as a DM after doing an underwhelming session. summary:  💀 for about ~1-1.3 hours Mr 💀 was also somehow as socially awkward as imp","og:image":""}}
 ---
 
 #sessions #incomplete

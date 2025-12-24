@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/alterham-related/undead-orc-wife/"}
+{"dg-publish":true,"permalink":"/npcs/Alterham Related/Undead Orc Wife/"}
 ---
 
 #NPCS #dead

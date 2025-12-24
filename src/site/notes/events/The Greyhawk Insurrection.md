@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/the-greyhawk-insurrection/","metatags":{"og:title":"The Greyhawk Insurrection","og:description":"The overthrowing and killing of The Greyhawk Baron. Takes place in The Free City of Greyhawk(tuah)"}}
+{"dg-publish":true,"permalink":"/events/The Greyhawk Insurrection/","metatags":{"og:title":"The Greyhawk Insurrection","og:description":"The overthrowing and killing of The Greyhawk Baron. Takes place in The Free City of Greyhawk(tuah)"}}
 ---
 
 #events 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/greyhawk-related/2-greyhawk-alleyway-guards/"}
+{"dg-publish":true,"permalink":"/npcs/Greyhawk related/2 greyhawk alleyway guards/"}
 ---
 
 #NPCS #dead

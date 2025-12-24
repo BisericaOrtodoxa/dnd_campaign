@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/the-drakmor-bartender/","metatags":{"og:title":"The Drakmor bartender","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Misc/The Drakmor bartender/","metatags":{"og:title":"The Drakmor bartender","og:description":"","og:image":""}}
 ---
 
 #NPCS 

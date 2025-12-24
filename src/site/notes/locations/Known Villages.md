@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/known-villages/"}
+{"dg-publish":true,"permalink":"/locations/Known Villages/"}
 ---
 
 # Known Villages:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creatures/kobold/","metatags":{"og:title":"Kobold","og:description":"Not all kobolds are stupid.(as encountered in the first sea crossing that took place in Session 03"}}
+{"dg-publish":true,"permalink":"/creatures/Kobold/","metatags":{"og:title":"Kobold","og:description":"Not all kobolds are stupid.(as encountered in the first sea crossing that took place in Session 03"}}
 ---
 
 #creature_type #known 

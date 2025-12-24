@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/wish/"}
+{"dg-publish":true,"permalink":"/spells/Wish/"}
 ---
 
 #spells

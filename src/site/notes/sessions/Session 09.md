@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-09/","metatags":{"og:title":"Session 09","og:description":"The party managed to come across something called The Forgive or Forget Parlor. Curiously, an old person that got out from that establishment forgot most of their life. The party dutifully alerted the staff of the parlor and they seem to have begun taking action.  In their attempts to move about The Free City of Greyhawk(tuah) the group almost got one dwarf I wont name arrested. Fortunately, due to comedic shenanigans, no blood was spilled.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 09/","metatags":{"og:title":"Session 09","og:description":"The party managed to come across something called The Forgive or Forget Parlor. Curiously, an old person that got out from that establishment forgot most of their life. The party dutifully alerted the staff of the parlor and they seem to have begun taking action.  In their attempts to move about The Free City of Greyhawk(tuah) the group almost got one dwarf I wont name arrested. Fortunately, due to comedic shenanigans, no blood was spilled.","og:image":""}}
 ---
 
 #sessions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/rat-brothers/ratthew/"}
+{"dg-publish":true,"permalink":"/npcs/Rat Brothers/Ratthew/"}
 ---
 
 #NPCS #hostile

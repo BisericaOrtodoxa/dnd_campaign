@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/donkey-eater-merchant/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/Donkey eater merchant/"}
 ---
 
 #NPCS #neutral

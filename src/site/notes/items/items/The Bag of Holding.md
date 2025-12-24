@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/the-bag-of-holding/","metatags":{"og:title":"The Bag of Holding"}}
+{"dg-publish":true,"permalink":"/items/items/The Bag of Holding/","metatags":{"og:title":"The Bag of Holding"}}
 ---
 
 #items

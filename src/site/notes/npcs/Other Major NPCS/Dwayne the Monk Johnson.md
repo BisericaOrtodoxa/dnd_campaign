@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/other-major-npcs/dwayne-the-monk-johnson/"}
+{"dg-publish":true,"permalink":"/npcs/Other Major NPCS/Dwayne the Monk Johnson/"}
 ---
 
 #NPCS

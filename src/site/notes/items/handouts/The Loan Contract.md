@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/the-loan-contract/","metatags":{"og:title":"The Loan Contract","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/items/handouts/The Loan Contract/","metatags":{"og:title":"The Loan Contract","og:description":"","og:image":""}}
 ---
 
 #handouts

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/seiro-s-registry-page/","metatags":{"og:title":"Seiro's registry page","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/items/handouts/Seiro's registry page/","metatags":{"og:title":"Seiro's registry page","og:description":"","og:image":""}}
 ---
 
 #handouts 

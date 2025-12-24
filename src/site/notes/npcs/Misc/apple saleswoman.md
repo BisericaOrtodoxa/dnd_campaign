@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/apple-saleswoman/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/apple saleswoman/"}
 ---
 
 #NPCS #dead

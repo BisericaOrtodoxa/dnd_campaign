@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-01-inception/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 01 - Inception/"}
 ---
 
 Revealed by [[DM ONLY/The Tome of Origin\|the magic book]]

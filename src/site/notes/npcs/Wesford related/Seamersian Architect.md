@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/wesford-related/seamersian-architect/"}
+{"dg-publish":true,"permalink":"/npcs/Wesford related/Seamersian Architect/"}
 ---
 
 #NPCS #neutral

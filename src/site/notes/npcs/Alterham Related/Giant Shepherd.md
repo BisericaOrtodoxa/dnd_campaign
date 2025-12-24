@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/alterham-related/giant-shepherd/","metatags":{"og:title":"Giant Shepherd","og:description":"Gentle giant that tends to a flock of sheep.","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Alterham Related/Giant Shepherd/","metatags":{"og:title":"Giant Shepherd","og:description":"Gentle giant that tends to a flock of sheep.","og:image":""}}
 ---
 
 #NPCS #neutral

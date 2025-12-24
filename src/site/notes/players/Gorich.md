@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/gorich/"}
+{"dg-publish":true,"permalink":"/players/Gorich/"}
 ---
 
 #players

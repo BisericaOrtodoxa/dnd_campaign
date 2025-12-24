@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-20/"}
+{"dg-publish":true,"permalink":"/sessions/Session 20/"}
 ---
 
 #sessions

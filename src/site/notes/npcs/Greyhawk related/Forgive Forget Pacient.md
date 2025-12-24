@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/greyhawk-related/forgive-forget-pacient/"}
+{"dg-publish":true,"permalink":"/npcs/Greyhawk related/Forgive Forget Pacient/"}
 ---
 
 #NPCS #neutral

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-33/","metatags":{"og:title":"Session 33","og:description":"The Party finds some info about the bard in the registrar and loses their bastion in a duel.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 33/","metatags":{"og:title":"Session 33","og:description":"The Party finds some info about the bard in the registrar and loses their bastion in a duel.","og:image":""}}
 ---
 
 #sessions

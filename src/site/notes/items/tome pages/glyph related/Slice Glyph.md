@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/slice-glyph/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Slice Glyph/"}
 ---
 
 # Slice Glyph

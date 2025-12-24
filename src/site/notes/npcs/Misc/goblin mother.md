@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/goblin-mother/","metatags":{"og:title":"goblin mother","og:description":"Mother of 2. Killed by The Party for the Lichnee potion.","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Misc/goblin mother/","metatags":{"og:title":"goblin mother","og:description":"Mother of 2. Killed by The Party for the Lichnee potion.","og:image":""}}
 ---
 
 #NPCS #dead

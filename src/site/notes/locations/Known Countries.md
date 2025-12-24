@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/known-countries/"}
+{"dg-publish":true,"permalink":"/locations/Known Countries/"}
 ---
 
 # Known Countries:

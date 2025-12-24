@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/bastion-of-the-frost-lord/belma-farlight/"}
+{"dg-publish":true,"permalink":"/npcs/Bastion of the Frost Lord/Belma Farlight/"}
 ---
 
 #NPCS #neutral

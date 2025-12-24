@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-05/","metatags":{"og:title":"Session 05","og:description":"The party finished the necromancer's crypt.  New knowledge: -Slice Glyph -Devils exist -holy items can cure the Zombie Plague -there was a war 10 years ago. -not all Kobolds are low IQ  Notable items: The Skull™️, The bag™️ - seemingly defies physics, can store an unknown quantity of objects regardless of their size of weight, Wand of random polymorph  - transforms the user into a completely random creature Book pages: Page 03 -The Frostbound communion","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 05/","metatags":{"og:title":"Session 05","og:description":"The party finished the necromancer's crypt.  New knowledge: -Slice Glyph -Devils exist -holy items can cure the Zombie Plague -there was a war 10 years ago. -not all Kobolds are low IQ  Notable items: The Skull™️, The bag™️ - seemingly defies physics, can store an unknown quantity of objects regardless of their size of weight, Wand of random polymorph  - transforms the user into a completely random creature Book pages: Page 03 -The Frostbound communion","og:image":""}}
 ---
 
 #sessions 

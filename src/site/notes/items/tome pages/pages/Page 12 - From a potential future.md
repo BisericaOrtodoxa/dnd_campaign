@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-12-from-a-potential-future/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 12 - From a potential future/"}
 ---
 
 #tome_pages #arg

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities-and-towns/shiford/","metatags":{"og:title":"Shiford","og:description":"Port town in the country of Seamersia"}}
+{"dg-publish":true,"permalink":"/locations/cities and towns/Shiford/","metatags":{"og:title":"Shiford","og:description":"Port town in the country of Seamersia"}}
 ---
 
 #locations

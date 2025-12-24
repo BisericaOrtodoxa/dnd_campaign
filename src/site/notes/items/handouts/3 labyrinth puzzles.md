@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/3-labyrinth-puzzles/","metatags":{"og:title":"3 labyrinth puzzles","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/items/handouts/3 labyrinth puzzles/","metatags":{"og:title":"3 labyrinth puzzles","og:description":"","og:image":""}}
 ---
 
 #handouts

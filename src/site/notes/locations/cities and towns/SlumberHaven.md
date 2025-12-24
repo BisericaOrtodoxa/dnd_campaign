@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities-and-towns/slumber-haven/","metatags":{"og:title":"SlumberHaven","og:description":"Seamersian town located near a volcano. Blood sacrifices take place here around once a generation."}}
+{"dg-publish":true,"permalink":"/locations/cities and towns/SlumberHaven/","metatags":{"og:title":"SlumberHaven","og:description":"Seamersian town located near a volcano. Blood sacrifices take place here around once a generation."}}
 ---
 
 #locations

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/items/the-obsidian-ball/","metatags":{"og:title":"The Obsidian Ball","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/items/items/The Obsidian Ball/","metatags":{"og:title":"The Obsidian Ball","og:description":"","og:image":""}}
 ---
 
 #items 

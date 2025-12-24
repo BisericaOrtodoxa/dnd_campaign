@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/handouts/handouts/"}
+{"dg-publish":true,"permalink":"/items/handouts/Handouts/"}
 ---
 
 # Handouts:

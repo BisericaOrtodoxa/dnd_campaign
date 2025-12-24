@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/wesford-related/the-orphan-infant/","metatags":{"og:title":"The orphan infant","og:description":"Killed by The Party to gather ingredients for the Lichnee potion.","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Wesford related/The orphan infant/","metatags":{"og:title":"The orphan infant","og:description":"Killed by The Party to gather ingredients for the Lichnee potion.","og:image":""}}
 ---
 
 #NPCS #dead

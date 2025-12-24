@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/cultist-escapee/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/Cultist escapee/"}
 ---
 
 #NPCS 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/zombie-plague/"}
+{"dg-publish":true,"permalink":"/concepts/Zombie Plague/"}
 ---
 
 #afflictions #known

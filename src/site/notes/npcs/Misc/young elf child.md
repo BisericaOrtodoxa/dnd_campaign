@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/young-elf-child/","metatags":{"og:title":"young elf child","og:description":"Seemingly killed his captors.","og:image":""}}
+{"dg-publish":true,"permalink":"/npcs/Misc/young elf child/","metatags":{"og:title":"young elf child","og:description":"Seemingly killed his captors.","og:image":""}}
 ---
 
 #NPCS

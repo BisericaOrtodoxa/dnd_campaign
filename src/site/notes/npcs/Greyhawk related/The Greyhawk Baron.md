@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/greyhawk-related/the-greyhawk-baron/"}
+{"dg-publish":true,"permalink":"/npcs/Greyhawk related/The Greyhawk Baron/"}
 ---
 
 #NPCS #dead

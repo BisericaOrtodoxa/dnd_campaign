@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/delay-glyph/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Delay Glyph/"}
 ---
 
 #magic_glyphs #tome_pages

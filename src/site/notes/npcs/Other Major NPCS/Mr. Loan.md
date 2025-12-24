@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/other-major-npcs/mr-loan/"}
+{"dg-publish":true,"permalink":"/npcs/Other Major NPCS/Mr. Loan/"}
 ---
 
 #NPCS #neutral

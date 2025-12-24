@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/emery/"}
+{"dg-publish":true,"permalink":"/players/Emery/"}
 ---
 
 #players

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/leo/"}
+{"dg-publish":true,"permalink":"/players/Leo/"}
 ---
 
 #players #dead

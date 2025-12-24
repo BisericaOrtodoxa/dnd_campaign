@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-party/","metatags":{"og:title":"The Party","og:description":"Imp(played by Imp) Emery(Played by 🍈) Gorich(Played by Demon) Remy(Played by BNN)"}}
+{"dg-publish":true,"permalink":"/factions/The Party/","metatags":{"og:title":"The Party","og:description":"Imp(played by Imp) Emery(Played by 🍈) Gorich(Played by Demon) Remy(Played by BNN)"}}
 ---
 
 #factions

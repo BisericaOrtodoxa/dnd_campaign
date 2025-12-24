@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/known-regions/"}
+{"dg-publish":true,"permalink":"/locations/Known Regions/"}
 ---
 
 # Known Regions:

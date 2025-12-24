@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/place-light/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Place light/"}
 ---
 
 #tome_pages

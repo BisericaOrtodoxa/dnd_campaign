@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/if-then-glyphs/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/If-Then Glyphs/"}
 ---
 
 # If-Then Glyphs

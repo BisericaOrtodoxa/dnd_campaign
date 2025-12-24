@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-18/","metatags":{"og:title":"Session 18","og:description":"The party hurries to rescue Emery. Which vanished due to drawing a cards from The Deck of Many Things. They also drew many many cards.","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 18/","metatags":{"og:title":"Session 18","og:description":"The party hurries to rescue Emery. Which vanished due to drawing a cards from The Deck of Many Things. They also drew many many cards.","og:image":""}}
 ---
 
 #sessions 

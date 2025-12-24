@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/erry-family/terry/"}
+{"dg-publish":true,"permalink":"/npcs/Erry Family/Terry/"}
 ---
 
 #NPCS 

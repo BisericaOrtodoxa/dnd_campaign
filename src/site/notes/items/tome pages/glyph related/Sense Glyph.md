@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/glyph-related/sense-glyph/"}
+{"dg-publish":true,"permalink":"/items/tome pages/glyph related/Sense Glyph/"}
 ---
 
 #tome_pages #magic_glyphs

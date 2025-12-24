@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npcs/misc/mr/"}
+{"dg-publish":true,"permalink":"/npcs/Misc/Mr 💀/"}
 ---
 
 #NPCS #dead 

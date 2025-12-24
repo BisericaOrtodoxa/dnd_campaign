@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/tome-pages/pages/page-02-mundum-effingens-geometriam-circle-magic-explained/"}
+{"dg-publish":true,"permalink":"/items/tome pages/pages/Page 02 - Mundum Effingens Geometriam(Circle magic explained)/"}
 ---
 
 #tome_pages
