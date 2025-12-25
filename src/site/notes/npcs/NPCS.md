@@ -75,6 +75,7 @@ Misc:
 - [[npcs/Misc/Donkey eater merchant\|Donkey eater merchant]]
 - [[npcs/Misc/ferocious canyon dwellers\|ferocious canyon dwellers]]
 - [[npcs/Misc/Gilgamesh\|Gilgamesh]]
+- [[npcs/Misc/Gilgamesh.sync-conflict-20251225-202207-KZKVR2S\|Gilgamesh.sync-conflict-20251225-202207-KZKVR2S]]
 - [[npcs/Misc/goblin mother\|goblin mother]]
 - [[npcs/Misc/Mr 💀\|Mr 💀]]
 - [[npcs/Misc/That Other Guy™️\|That Other Guy™️]]
