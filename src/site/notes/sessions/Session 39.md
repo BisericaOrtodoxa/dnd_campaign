@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/Session 39/","metatags":{"og:title":"Session 39","og:description":"","og:image":""}}
+{"dg-publish":true,"permalink":"/sessions/Session 39/","metatags":{"og:title":"Session 39","og:description":"The Christmas episode","og:image":""}}
 ---
 
 # Session 39
