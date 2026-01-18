@@ -5,4 +5,4 @@
 #NPCS 
 # The Drakmor bartender
 
-![Pasted image 20251019182436.png](/img/user/npcs/Misc/Pasted%20image%2020251019182436.png)
+![Pasted image 20251019182436.png](/img/user/npcs/images/Pasted%20image%2020251019182436.png)

@@ -18,4 +18,6 @@ Upon entry, 6 suicidal kobolds ambush them, explode and curse [[players/Imp\|Imp
 [[players/Imp\|Imp]] got teleported to the wolf dimension. gorich joined for a moment to discuss liquid planks. [[npcs/Misc/Gilgamesh\|Gilgamesh]] thanked imp and lifted his curse. [[factions/The Party\|The party]] did not enquire as to why.
 
 Afterward they went into the workshop that was on fire and started opening gifts. The party then went on stairs that no one could agree whether they go up or down. The party opened more gifts and [[players/Gorich\|Gorich]] went into coal debt. 
-Next floor down(up?) the crew met jack in a box. He collected everyone's requests for [[Santa\|Santa]]'s gifts. They then continued onward and got to the end where [[Santa\|Santa]] is being kept hostage
+Next floor down(up?) the crew met jack in a box. He collected everyone's requests for [[npcs/Misc/Santa\|Santa]]'s gifts. They then continued onward and got to the end where [[npcs/Misc/Santa\|Santa]] is being kept hostage
+
+Next session: [[sessions/Session 40\|Session 40]]

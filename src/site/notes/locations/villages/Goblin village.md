@@ -5,4 +5,4 @@
 #locations 
 # Goblin village 
 
-Located at the border of [[DM ONLY/The Permafrost Region\|The Permafrost Region]]. [[players/Emery\|Emery]] sold it all.
+Located at the border of [[DM ONLY/locations/The Permafrost Region\|The Permafrost Region]]. [[players/Emery\|Emery]] sold it all.

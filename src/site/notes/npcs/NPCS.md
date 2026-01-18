@@ -77,6 +77,7 @@ Misc:
 - [[npcs/Misc/Gilgamesh\|Gilgamesh]]
 - [[npcs/Misc/goblin mother\|goblin mother]]
 - [[npcs/Misc/Mr 💀\|Mr 💀]]
+- [[npcs/Misc/Santa\|Santa]]
 - [[npcs/Misc/Sprinkles\|Sprinkles]]
 - [[npcs/Misc/That Other Guy™️\|That Other Guy™️]]
 - [[npcs/Misc/The Bandit Survivor\|The Bandit Survivor]]
@@ -84,4 +85,4 @@ Misc:
 - [[npcs/Misc/Tortured Capture Assassin\|Tortured Capture Assassin]]
 - [[npcs/Misc/young elf child\|young elf child]]
 
-{ .block-language-dataview}
+{ .block-language-dataview}`

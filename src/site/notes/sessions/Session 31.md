@@ -5,7 +5,7 @@
 #sessions
 # Session 31
 
-[[factions/The Party\|The Party]] finally managed to settled [[DM ONLY/events/The disappearance of Belma Farlight\|The disappearance of Belma Farlight]].  [[npcs/Bastion of the Frost Lord/The Iron Piglet\|The Iron Piglet]] guides the party towards [[npcs/Bastion of the Frost Lord/Lord Frost\|Lord Frost]]'s residence, a snowflake shaped building located in a separate dimension/plane/etc etc.
+[[factions/The Party\|The Party]] finally managed to settled [[events/The disappearance of Belma Farlight\|The disappearance of Belma Farlight]].  [[npcs/Bastion of the Frost Lord/The Iron Piglet\|The Iron Piglet]] guides the party towards [[npcs/Bastion of the Frost Lord/Lord Frost\|Lord Frost]]'s residence, a snowflake shaped building located in a separate dimension/plane/etc etc.
 Upon visiting the residence, the party gathers various bells from various rooms  and eventually reaches the throne room. Said throne room brings back old memories with its style.
 As it turns out, [[npcs/Bastion of the Frost Lord/Orin Farlight\|Orin]] made a deal with [[npcs/Bastion of the Frost Lord/Lord Frost\|Lord Frost]]. His skill as an artificer for his firstborn child.
 [[npcs/Bastion of the Frost Lord/Belma Farlight\|Belma]] herself appears to be rather ok with this arrangement, as her father's kindness faded away with his old age.
