@@ -3,6 +3,7 @@
 ---
 
 # Session 40
+#sessions 
 
 [[factions/The Party\|The party]] continues in the rush to save The Holidays.
 In their mad dash to get to [[npcs/Misc/Santa\|Santa]], his factory is almost set ablaze. 

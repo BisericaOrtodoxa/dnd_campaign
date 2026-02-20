@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sessions/Session 41/","metatags":{"og:title":"Session 41","og:description":"The finale.","og:image":""}}
 ---
 
+# Session 41
+#sessions 
 
 Upon attempting a return home, [[factions/The Party\|The Party]] makes a pitstop at a nearby village. It appears to be a rudimentary settlement consisting entirely of lizard folk.
 Due to some karmic retribution, [[players/Imp\|Imp]] gets struck by lightning and ends up in a wheelchair.
